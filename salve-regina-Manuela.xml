@@ -3,11 +3,11 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title></title>
-                <author></author>
+            <title>Salve Regina</title>
+                <author>Tomás Carrasquilla</author>
             <respStmt>
-                <resp></resp>
-                <name></name>
+                <resp>Edición y codificación del texto</resp>
+                <name>Manuela Ramírez-Hincapié</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -15,16 +15,42 @@
          </publicationStmt>
          <sourceDesc>
          <bibl>
-         <pubPlace></pubPlace>
-         <publisher></publisher>
-         <date when="22"></date>
+         <pubPlace>Medellín</pubPlace>
+         <publisher>Imprenta Oficial en Medellín</publisher>
+         <date when="1903">1903</date>
          </bibl>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <div>
+      <head>Salve Regina</head>
+      <pb n="5"/>
+         <div><lb/>Es en los Andes. El negro y 
+         <lb/>atrevido contrafuerte, tajado en 
+         <lb/>dos planos verticales, parece un li-
+         <lb/>bro abierto. En ambas páginas es
+         <lb/>cribió Naturaleza, con signos de lí-
+         <lb/>quenes y jeroglíficos de cardos, una 
+         <lb/>sentencia misteriosa. Cual si qui-
+         <lb/>siese apuntarla en su sabiduría, pu-
+         <lb/>so allí por registro un torzal des-
+         <lb/>lumbrante de plata y de armiño. 
+         <lb/>Resplandece y se magnifica en su <pb n="6"/>
+         <lb/>pureza; asoma apretado y se enca-
+         <lb/>rruja; se afloja en seguida como 
+         <lb/>una madeja; se desmelena por últi-
+         <lb/>mo, lacio y deshecho, para perder-
+         <lb/>se en la espesura. A medida que 
+         <lb/>desciende por las negruras del ba-
+         <lb/>salto parece entristecerse. 
+	La Blanca llamaron á esta caída de agua, La Blanca, al arroyuelo que, engrosado por diversos manantiales, corre y ondea á lo largo de un reducido valle. 
+	Arullada por sus rumores, en un rincón ameno y declivado, medio escondida entre plataneras y graduales, ajena á las agitaciones del mundo, duerme, años hace, Santa María de la Blanca. 
+	Arropa sus vegas y laderas, sus pendientes y colinas el manto opulento de la feracidad ; costelan las vacadas sus apacibles praderías ; sus jardines, en perpetua florecencia, semejan mantones de Manila. En aquel clima no se inflama el aire en el verano ni se congela en el invierno, como en los tiempos de Rioja y de Garcilaso; vive allí El Blando Céfiro, con la mayor frescu<pb n="7"/>ra. Y tál, que la sangre circula con ritmo de la salud, y los pulmones se ensanchan con ese oxígeno edénico. Colóranse como duraznos las mejillas de las chicas ; las cejas y los cabellos parecen á toda hora como ungidos con brillantina ; los ojos, rasgados y profundos, se abren al sol de la juventud, cual si quisieran beberse el infinito. ¡Pobres ojo!
+	Los más bellos, los más soñadores y misteriosos eran los de Regina. 
+Pardos, cuando la sorpresa la obligaba á divulgarlos en sus espléndida realidad, parecían negros, normalmente, bajo la proyección pudibunda de esas pestañas largas y combadas. Hablaban tales cosas esos ojos, que en cuanto algún mozo se percibía de ello, corríanle por las vértebras fríos y calores. Bajos ante los extraños, alzábalos á solas siempre que pudiera contemplar el cielo y los horizontes de su pueblo, único mundo que conocía. 
+	Una mañana radiante de verano, con esa actitud del que mira á lo lejos, admiraba desde los corredores de su casa el salto de La Blaca. Jamás la había visto tan hermosa: le parecía en tal momento más argentina é inmaculada. No se saciaba de mirarla, y, á medida que la contemplaba, sus ojos iban como recitando un poema de melancolía y de humildad. La cascada era su vicio, y, por lo mismo que le inspiraba ideas tristes y extrañas, no se enmendaba. Siempre había de mirarla todas las mañanas, y, cuando la niebla la velaba, Regina sentía nostalgia de blancura y de belleza. A veces rezaba contemplándola, y se le figuraba que eran sus preces más fervientes ante esta obra de la Naturaleza que en la misma iglesia, en medio de las solemnidades del culto. Como alguna vez le llevara al Cura este horrible pecado de idolatría, rióselo él de todo corazón y la autorizó para que lo cometiese cuando y como quisiera. Pues, qué ¿no publicaba esa maravilla la grandeza del Creador? ¡Vetdad! Como ella era tan tonta, no había pensado en eso, y Regina  con tal permiso y enseñanza, rezó y rezó viendo La Blanca, como ante la imagen de un santo predilecto. Jamás reveló el caso, por no parecer fantástica ó algo así. 
+	No rezaba, sin embargo, ante la cascada en la mañana aquella : cavilaba muy hondo. A su modo, y no por vez primera, ciertamente, iba estableciendo un paralelo entre el chorro y el alma de su novio.
          </div>
       </body>
   </text>
