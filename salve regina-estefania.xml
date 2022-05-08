@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salve, Regina</title>
+                <author>Tomás Carrasquilla</author>
+            <respStmt>
+                <resp>Edición y codificación del texto</resp>
+                <name>Estefania Cardona-León</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Medellín</pubPlace>
+         <publisher>Imprenta Oficial</publisher>
+         <date when="1903">1903</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+        <head>Salve, Regina</head>
+         <pb n="5"/>
+        <p><lb/>Es en los Andes. El negro y
+           <lb/>atrevido contrafuerte, tajado en
+           <lb/>dos planos verticales, parece un li-
+           <lb/>bro abierto. En ambas páginas es-
+           <lb/>cribió Naturaleza, con signos de lí-
+           <lb/>quenes y jeroglíficos de cardos, una
+           <lb/>sentencia misteriosa. Cual si qui-
+           <lb/>siese apuntarla en su sabiduría, pu-
+           <lb/>so allí por registro un torzal des-
+           <lb/>lumbrante de plata y de armiño.
+           <lb/>Resplandece y se magnifica en su
+         <pb n="6"/> 
+           <lb/>pureza; asoma apretado y se enca-
+           <lb/>rruja; se afloja en seguida como
+           <lb/>una madeja; se desmelena por últi-
+           <lb/>mo, lacio y deshecho, para perder-
+           <lb/>se en la espesura. A medida que
+           <lb/>desciende por las negruras del ba-
+           <lb/>salto parece entristecerse.</p>
+        <p><lb/>La Blanca llamaron á esta caída
+           <lb/>de agua, La Blanca, al arroyuelo
+           <lb/>que, engrosado por diversos ma-
+           <lb/>nantiales, corre y ondea á lo largo
+           <lb/>de un reducido valle.</p>  
+        <p><lb/>Arullada por sus rumores, en
+           <lb/>un rincón ameno y declivado, me-
+           <lb/>dio escondida entre plataneras y
+           <lb/>graduales, ajena á las agitaciones
+           <lb/>del mundo, duerme, años hace, San- 
+           <lb/>ta María de la Blanca.</p>
+        <p><lb/>Arropa sus vegas y laderas, sus
+           <lb/>pendientes y colinas el manto opu-         
+           <lb/>lento de la feracidad ; costelan las 
+           <lb/>vacadas sus apacibles praderías ;
+           <lb/>sus jardines, en perpetua florecen-
+           <lb/>cia, semejan mantones de Manila.
+           <lb/>En aquel clima no se inflama el ai-
+           <lb/>re en el verano ni se congela en el
+           <lb/>invierno, como en los tiempos de
+	       <lb/>Rioja y de Garcilaso; vive allí El
+           <lb/>Blando Céfiro, con la mayor frescu-
+         <pb n="7"/>  
+           <lb/>ra. Y tál, que la sangre circula con
+           <lb/>ritmo de la salud, y los pulmones
+           <lb/>se ensanchan con ese oxígeno edé-
+           <lb/>nico. Colóranse como duraznos las
+           <lb/>mejillas de las chicas ; las cejas y
+           <lb/>los cabellos parecen á toda hora
+           <lb/>como ungidos con brillantina ; los
+           <lb/>ojos, rasgados y profundos, se abren
+           <lb/>al sol de la juventud, cual si qui-
+           <lb/>sieran beberse el infinito. ¡Pobres
+           <lb/>ojos!</p>
+        <p><lb/>Los más bellos, los más soñado-
+           <lb/>res y misteriosos eran los de Regi-
+           <lb/>na.</p>
+        <p><lb/>Pardos, cuando la sorpresa la
+           <lb/>obligaba á divulgarlos en sus es-
+           <lb/>pléndida realidad, parecían negros,
+           <lb/>normalmente, bajo la proyección
+           <lb/>pudibunda de esas pestañas largas
+           <lb/>y combadas. Hablaban tales cosas
+           <lb/>esos ojos, que en cuanto algún mo-
+           <lb/>zo se percibía de ello, corríanle por
+           <lb/>las vértebras fríos y calores. Bajos
+           <lb/>ante los extraños, alzábalos á solas
+           <lb/>siempre que pudiera contemplar el 
+           <lb/>cielo y los horizontes de su pue-
+           <lb/>blo, único mundo que conocía.</p>
+        <p><lb/>Una mañana radiante de verano,
+           <lb/>con esa actitud del que mira á lo
+        <pb n="8"/> 
+           <lb/>lejos, admiraba desde los corredo-
+	       <lb/>res de su casa el salto de La Blan-
+           <lb/>ca. Jamás la había visto tan hermo-
+           <lb/>sa: le parecía en tal momento más
+           <lb/>argentina é inmaculada. No se sa-
+           <lb/>ciaba de mirarla, y, á medida que
+           <lb/>la contemplaba, sus ojos iban como
+           <lb/>recitando un poema de melancolía
+           <lb/>y de humildad. La cascada era su
+           <lb/>vicio, y, por lo mismo que le ins-
+	       <lb/>piraba ideas tristes y extrañas, no
+           <lb/>se enmendaba. Siempre había de
+           <lb/>mirarla todas las mañanas, y, cuan-
+           <lb/>do la niebla la velaba, Regina sen-
+           <lb/>tía nostalgia de blancura y de be-   
+           <lb/>lleza. A veces rezaba contemplán-
+           <lb/>dola, y se le figuraba que eran sus
+           <lb/>preces más fervientes ante esta obra 
+           <lb/>de la Naturaleza que en la misma
+           <lb/>iglesia, en medio de las solemnida-
+           <lb/>des del culto. Como alguna vez le
+           <lb/>llevara al Cura este horrible peca-
+	       <lb/>do de idolatría, rióselo él de todo
+           <lb/>corazón y la autorizó para que lo
+           <lb/>cometiese cuando y como quisiera.
+           <lb/>Pues, qué ¿no publicaba esa mara-
+           <lb/>villa la grandeza del Creador? ¡Ver-
+           <lb/>dad! Como ella era tan tonta, no
+           <lb/>había pensado en eso, y Regina
+        <pb n="9"/>   
+           <lb/>con tal permiso y enseñanza, rezó
+           <lb/>y rezó viendo La Blanca, como
+           <lb/>ante la imagen de un santo predi-
+           <lb/>lecto. Jamás reveló el caso, por no
+           <lb/>parecer fantástica ó algo así.</p>
+        <p><lb/>No rezaba, sin embargo, ante la
+           <lb/>cascada en la mañana aquella : ca-
+           <lb/>vilaba muy hondo. A su modo, y
+           <lb/>no por vez primera, ciertamente,
+           <lb/>iba estableciendo un paralelo en-
+           <lb/>tre el chorro y el alma de su novio. 
+           <lb/>Se parecían mucho : el alma de
+           <lb/>su Marcial-bien lo sabía ella, que lo
+           <lb/>amaba desde niño-era en otro
+           <lb/>tiempo tan limpia y tan hermosa
+           <lb/>como esas aguas despeñadas ; lué-
+           <lb/>go, al contacto de la tierra, una y
+           <lb/>otras habíanse enturbiado ¡Qué
+           <lb/>tristeza! Y así como ella, por un
+           <lb/>capricho enexplicable, prefería para
+           <lb/>el baño las linfas impuras de La
+	       <lb/>Blanca á los varios cristalinos arro-
+           <lb/>yuelos del pueblo, así su corazón,
+           <lb/>obcecado por un amor irresistible,
+           <lb/>débale preferencia al sér vil, macu-
+           <lb/>lado por la culpa, sobre dos hom-
+           <lb/>bres dignos cabales, de ejemplar
+           <lb/>conducta, que la amaban á cual
+	       <lb/>más y la solicitaban por esposa. 
+        <pb n="10"/>
+           <lb/>¡Ay! ¡Qué horrible era la vida! Y
+           <lb/>ella.... ¡Cuán mala y depravada!
+           <lb/>Porque lejos de desprenderse del
+           <lb/>menguado, que sólo desprecio me-
+           <lb/>recía, sentíase más y más atraída y
+           <lb/>avasallada. ¡Qué vileza! Y cuán
+           <lb/>tristemente se llevaba ella por de-
+           <lb/>lante el precepto de santa obedien-
+           <lb/>cia. Bien explícito había sido el
+           <lb/>Sr. Cura á este respecto : que si-
+           <lb/>guiese los consejos y amonestacio-
+           <lb/>nes de sus padres. ¡Sus padres!....
+           <lb/>Harto sabía ella cuánto detestaban
+           <lb/>á Marcial. ¡Pobrecito!</p>
+        <p><lb/>De las maldades de su amado,
+           <lb/>aunque nunca quiso saberlas á cien-
+           <lb/>cia cierta y concretarlas de una
+           <lb/>manera determinada, yá no podía
+           <lb/>quedarle la menor duda. Si al prin-
+           <lb/>cipio no daba asenso á las insinua-
+           <lb/>ciones de su madre ni á las reticen-
+           <lb/>cias harto elocuentes de alguna
+           <lb/>amiga oficiosa, yá la verdad, la
+           <lb/>horrible verdad se le imponía, acer-
+           <lb/>ba é insistente, como un dolor que
+           <lb/>no admitía alivio. Hasta las inocen-
+           <lb/>tes la sabían.</p>
+                  
+         </div>
+      </body>
+  </text>
+</TEI>
