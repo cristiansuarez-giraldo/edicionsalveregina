@@ -30,21 +30,168 @@
       <pb n="5"/>
 
         <p> <lb>Es en los Andes. El negro y</lb>
-        <lb>atrevido contrafuerte, tajado en</lb>
+        <lb break="yes">atrevido contrafuerte, tajado en</lb>
         <lb break="no">dos planos verticales, parece un li</lb>
         <lb break="no">bro abierto. En ambas páginas es</lb>
         <lb break="no">cribió Naturaleza, con signos de lí</lb>
-        <lb>quenes y jeroglíficos de cardos, una</lb>
+        <lb break="no">quenes y jeroglíficos de cardos, una</lb>
         <lb break="no">sentencia misteriosa. Cual si qui</lb>
         <lb break="no">siese apuntarla en su sabiduría, pu</lb>
-        so allí por registro un torzal deslumbrante de plata y de armiño. Resplandece y se magnifica en su <pb n="6"/> pureza; asoma apretado y se encarruja; se afloja en seguida como una madeja; se desmelena por último, lacio y deshecho, para perderse en la espesura. A medida que desciende por las negruras del basalto parece entristecerse.</p>
-	<p>La Blanca llamaron á esta caída de agua, La Blanca, al arroyuelo que, engrosado por diversos manantiales, corre y ondea á lo largo de un reducido valle.</p>
-	<p>Arullada por sus rumores, en un rincón ameno y declivado, medio escondida entre plataneras y graduales, ajena á las agitaciones del mundo, duerme, años hace, Santa María de la Blanca.</p>
-	<p>Arropa sus vegas y laderas, sus pendientes y colinas el manto opulento de la feracidad ; costelan las vacadas sus apacibles praderías ; sus jardines, en perpetua florecencia, semejan mantones de Manila. En aquel clima no se inflama el aire en el verano ni se congela en el invierno, como en los tiempos de Rioja y de Garcilaso; vive allí El Blando Céfiro, con la mayor frescura. Y tál, que la sangre circula con ritmo de la salud, y los pulmones se ensanchan con ese oxígeno edénico. Colóranse como duraznos las mejillas de las chicas ; las cejas y los cabellos parecen á toda hora como ungidos con brillantina ; los ojos, rasgados y profundos, se abren al sol de la juventud, cual si quisieran beberse el infinito. ¡Pobres ojo!</p>
-	<p>Los más bellos, los más soñadores y misteriosos eran los de Regina.</p>
-<p>Pardos, cuando la sorpresa la obligaba á divulgarlos en sus espléndida realidad, parecían negros, normalmente, bajo la proyección pudibunda de esas pestañas largas y combadas. Hablaban tales cosas esos ojos, que en cuanto algún mozo se percibía de ello, corríanle por las vértebras fríos y calores. Bajos ante los extraños, alzábalos á solas siempre que pudiera contemplar el cielo y los horizontes de su pueblo, único mundo que conocía.</p>
-	<p>Una mañana radiante de verano, con esa actitud del que mira á lo lejos, admiraba desde los corredores de su casa el salto de La Blaca. Jamás la había visto tan hermosa: le parecía en tal momento más argentina é inmaculada. No se saciaba de mirarla, y, á medida que la contemplaba, sus ojos iban como recitando un poema de melancolía y de humildad. La cascada era su vicio, y, por lo mismo que le inspiraba ideas tristes y extrañas, no se enmendaba. Siempre había de mirarla todas las mañanas, y, cuando la niebla la velaba, Regina sentía nostalgia de blancura y de belleza. A veces rezaba contemplándola, y se le figuraba que eran sus preces más fervientes ante esta obra de la Naturaleza que en la misma iglesia, en medio de las solemnidades del culto. Como alguna vez le llevara al Cura este horrible pecado de idolatría, rióselo él de todo corazón y la autorizó para que lo cometiese cuando y como quisiera. Pues, qué ¿no publicaba esa maravilla la grandeza del Creador? ¡Vetdad! Como ella era tan tonta, no había pensado en eso, y Regina  con tal permiso y enseñanza, rezó y rezó viendo La Blanca, como ante la imagen de un santo predilecto. Jamás reveló el caso, por no parecer fantástica ó algo así.</p>
-	<p>No rezaba, sin embargo, ante la cascada en la mañana aquella : cavilaba muy hondo. A su modo, y no por vez primera, ciertamente, iba estableciendo un paralelo entre el chorro y el alma de su novio.</p>
+        <lb break="no">so allí por registro un torzal des</lb>
+        <lb break="no">lumbrante de plata y de armiño.</lb>
+        <lb break="yes">Resplandece y se magnifica en su</lb>
+        <pb n="6"/> <lb break="yes">pureza; asoma apretado y se encarru</lb>
+        <lb break="no">ja; se afloja en seguida como</lb>
+        <lb break="yes">una madeja; se desmelena por últi</lb>
+        <lb break="no">mo, lacio y deshecho, para perder</lb>
+        <lb break="no">se en la espesura. A medida que</lb>
+        <lb break="yes">desciende por las negruras del ba</lb>
+        <lb break="no">salto parece entristecerse.</lb></p> 
+
+	    <p> <lb> <hi rend="italic">La Blanca</hi> llamaron á esta caída</lb>
+        <lb break="yes">de agua, <hi rend="italic">La Blanca</hi>, al arroyuelo</lb>
+        <lb break="yes">que, engrosado por diversos ma</lb>
+        <lb break="no">nantiales, corre y ondea á lo largo</lb> 
+        <lb break="yes">de un reducido valle.</lb></p>
+
+	    <p> <lb>Arullada por sus rumores, en</lb>
+        <lb break="yes">un rincón ameno y declivado, me</lb>
+        <lb break="no">dio escondida entre plataneras y</lb>
+        <lb break="yes">graduales, ajena á las agitaciones</lb> 
+        <lb break="yes">del mundo, duerme, años hace, <hi rend="italic">San</lb>
+        <lb break="no">ta María de la Blanca</hi>.</lb></p>
+
+	    <p> <lb>Arropa sus vegas y laderas, sus</lb> 
+        <lb break="yes">pendientes y colinas el manto opu</lb>
+        <lb break="no">lento de la feracidad ; costelan las</lb>
+        <lb break="no">vacadas sus apacibles praderías ;</lb>
+        <lb break="yes">sus jardines, en perpetua florecen</lb>
+        <lb break="no">cia, semejan mantones de Manila.</lb>
+        <lb break="yes">En aquel clima no se inflama el ai</lb>
+        <lb break="no">re en el verano ni se congela en el</lb>
+        <lb break="yes">invierno, como en los tiempos de</lb>
+        <lb break="yes">Rioja y de Garcilaso; vive allí <hi rend="italic">El</lb> 
+        <lb break="yes">Blando Céfiro</hi>, con la mayor frescu</lb>
+        <pb n="7"/><lb break="no">ra. Y tál, que la sangre circula con</lb>
+        <lb break="yes">el ritmo de la salud, y los pulmones</lb> 
+        <lb break="yes">se ensanchan con ese oxígeno edé</lb>
+        <lb break="no">nico. Colóranse como duraznos las</lb>
+        <lb break="yes">mejillas de las chicas ; las cejas y</lb>
+        <lb break="yes">los cabellos parecen á toda hora</lb>
+        <lb break="yes">como ungidos con brillantina ; los</lb> 
+        <lb break="yes">ojos, rasgados y profundos, se abren</lb>
+        <lb break="yes">al sol de la juventud, cual si qui</lb>
+        <lb break="no">sieran beberse el infinito. ¡Pobres</lb>
+        <lb break="yes">ojos!</lb></p>
+
+	    <p><lb>Los más bellos, los más soñado</lb>
+        <lb break="no">res y misteriosos eran los de Regi</lb>
+        <lb break="no">na.</lb></p>
+
+        <p><lb>Pardos, cuando la sorpresa la</lb>
+        <lb break="yes">obligaba á divulgarlos en sus es</lb>
+        <lb break="no">pléndida realidad, parecían negros,</lb>
+        <lb break="yes">normalmente, bajo la proyección</lb>
+        <lb break="yes">pudibunda de esas pestañas largas</lb>
+        <lb break="yes">y combadas. Hablaban tales cosas</lb> 
+        <lb break="yes">esos ojos, que en cuanto algún mo</lb>
+        <lb break="no">zo se percibía de ello, corríanle por</lb>
+        <lb break="yes">las vértebras fríos y calores. Bajos</lb> 
+        <lb break="yes">ante los extraños, alzábalos á solas</lb> 
+        <lb break="yes">siempre que pudiera contemplar el</lb> 
+        <lb break="yes">cielo y los horizontes de su pue</lb>
+        <lb break="no">blo, único mundo que conocía.</lb></p>
+
+	    <p><lb>Una mañana radiante de verano,</lb>
+        <lb break="yes">con esa actitud del que mira á lo</lb> 
+        <pb n="8"/><lb break="yes">lejos, admiraba desde los corredo</lb>
+        <lb break="no">res de su casa el salto de <hi rend="italic">La Blan</lb>
+        <lb break="no">ca</hi>. Jamás la había visto tan hermo</lb>
+        <lb break="no">sa: le parecía en tal momento más</lb> 
+        <lb break="yes">argentina é inmaculada. No se sa</lb>
+        <lb break="no">ciaba de mirarla, y, á medida que</lb> 
+        <lb break="yes">la contemplaba, sus ojos iban como</lb> 
+        <lb break="yes">recitando un poema de melancolía</lb> 
+        <lb break="yes">y de humildad. La cascada era su</lb> 
+        <lb break="yes">vicio, y, por lo mismo que le ins</lb>
+        <lb break="no">piraba ideas tristes y extrañas, no</lb> 
+        <lb break="yes">se enmendaba. Siempre había de</lb>
+        <lb break="yes">mirarla todas las mañanas, y, cuan</lb>
+        <lb break="no">do la niebla la velaba, Regina sen</lb>
+        <lb break="no">tía nostalgia de blancura y de be</lb>
+        <lb break="no">lleza. A veces rezaba contemplán</lb>
+        <lb break="no">dola, y se le figuraba que eran sus</lb> 
+        <lb break="yes">preces más fervientes ante esta obra</lb> 
+        <lb break="yes">de la Naturaleza que en la misma</lb> 
+        <lb break="yes">iglesia, en medio de las solemnida</lb>
+        <lb break="no">des del culto. Como alguna vez le</lb> 
+        <lb break="yes">llevara al Cura este horrible peca</lb>
+        <lb break="no">do de idolatría, rióselo él de todo</lb> 
+        <lb break="yes">corazón y la autorizó para que lo</lb> 
+        <lb break="yes">cometiese cuando y como quisiera.</lb> 
+        <lb break="yes">Pues, qué ¿no publicaba esa mara</lb>
+        <lb break="no">villa la grandeza del Creador? ¡Ver</lb>
+        <lb break="no">dad! Como ella era tan tonta, no</lb> 
+        <lb break="yes">había pensado en eso, y Regina</lb>
+        <pb n="9"><lb break="yes">con tal permiso y enseñanza, rezó</lb> 
+        <lb break="yes">y rezó viendo <hi rend="italic">La Blanca</hi>, como</lb> 
+        <lb break="yes">ante la imagen de un santo predi</lb>
+        <lb break="no">lecto. Jamás reveló el caso, por no</lb> 
+        <lb break="yes">parecer fantástica ó algo así.</lb></p>
+
+	    <p><lb>No rezaba, sin embargo, ante la</lb>
+        <lb break="yes">cascada en la mañana aquella : ca</lb>
+        <lb break="no">vilaba muy hondo. A su modo, y</lb> 
+        <lb break="yes">no por vez primera, ciertamente,</lb> 
+        <lb break="yes">iba estableciendo un paralelo en</lb>
+        <lb break="no">tre el chorro y el alma de su novio.</lb>
+        <lb break="yes">Se parecían mucho : el alma de su</lb> 
+        <lb break="yes">Marcial-bien lo sabía ella, que lo</lb> 
+        <lb break="yes">amaba desde niño-era en otro</lb> 
+        <lb break="yes">tiempo tan limpia y tan hermosa</lb> 
+        <lb break="yes">como esas aguas despeñadas ; lué</lb>
+        <lb break="no">go, al contacto de la tierra, una y</lb>
+        <lb break="yes">otras habíanse enturbiado ¡Qué</lb> 
+        <lb break="yes">tristeza! Y así como ella, por un<lb> 
+        <lb break="yes">capricho enexplicable, prefería para</lb> 
+        <lb break="yes">el baño las linfas impuras de <hi rend="italic">La</lb> 
+        <lb break="yes">Blanca</hi> á los varios cristalinos arro</lb>
+        <lb break="no">yuelos del pueblo, así su corazón,</lb> 
+        <lb break="yes">obcecado por un amor irresistible,</lb> 
+        <lb break="yes">débale preferencia al sér vil, macu</lb>
+        <lb break="no">lado por la culpa, sobre dos hom</lb>
+        <lb break="no">bres dignos cabales, de ejemplar</lb> 
+        <lb break="yes">conducta, que la amaban á cual</lb> 
+        <lb break="yes">más y la solicitaban por esposa.</lb>
+        <pb n="10"/><lb break="yes">¡Ay! ¡Qué horrible era la vida! Y</lb> 
+        <lb break="yes">ella.... ¡Cuán mala y depravada!</lb> 
+        <lb break="yes">Porque lejos de desprenderse del</lb> 
+        <lb break="yes">menguado, que sólo desprecio me</lb>
+        <lb break="no">recía, sentíase más y más atraída y</lb> 
+        <lb break="yes">avasallada. ¡Qué vileza! Y cuán</lb> 
+        <lb break="yes">tristemente se llevaba ella por de</lb>
+        <lb break="no">lante el precepto de santa obedien</lb>
+        <lb break="no">cia. Bien explícito había sido el</lb>
+        <lb break="yes">Sr. Cura á este respecto : que si</lb>
+        <lb break="no">guiese los consejos y amonestacio</lb>
+        <lb break="no">nes de sus padres. ¡Sus padres!....</lb>
+        <lb break="yes">Harto sabía ella cuánto detestaban</lb> 
+        <lb break="yes">á Marcial. ¡Pobrecito!</lb></p>
+
+	    <p><lb>De las maldades de su amado,</lb>
+        <lb break="yes">aunque nunca quiso saberlas á cien</lb>
+        <lb break="no">cia cierta y concretarlas de una</lb> 
+        <lb break="yes">manera determinada, yá no podía</lb> 
+        <lb break="yes">quedarle la menor duda. Si al prin</lb>
+        <lb break="no">cipio no daba asenso á las insinua</lb>
+        <lb break="no">ciones de su madre ni á las reticen</lb>
+        <lb break="no">cias harto elocuentes de alguna</lb>
+        <lb break="yes">amiga oficiosa, yá la verdad, la</lb> 
+        <lb break="yes">horrible verdad se le imponía, acer</lb>
+        <lb break="no">ba é insistente, como un dolor que</lb>
+        <lb break="yes">no admitía alivio. Hasta las inocen</lb>
+        <lb break="no">tes la sabían.</lb></p>
+
          </div>
       </body>
   </text>
