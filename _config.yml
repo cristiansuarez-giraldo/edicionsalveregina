@@ -15,9 +15,11 @@
 title: Edición digital Salve Regina
 email: suarezg106@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  En el marco del curso de Edición digital del Pregrado en Literatura
+  de la Universidad EAFIT, los estudiantes de los semestres 2021-2
+  y 2022-1 realizaron este proyecto de edición digital, recuperando el 
+  material patrimonial de Tomás Carrasquilla ubicado en la Biblioteca 
+  Luis Echavarría Villegas. 
 baseurl: "/edicionsalveregina" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
