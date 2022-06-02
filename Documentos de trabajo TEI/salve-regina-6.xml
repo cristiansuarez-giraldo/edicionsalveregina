@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salve Regina</title>
+                <author>Tomás Carrasquilla</author>
+            <respStmt>
+                <resp>Codificación y edición</resp>
+                <name>Marlon Ramírez Bedoya</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Medellín</pubPlace>
+         <publisher>Imprenta Oficial en Medellín</publisher>
+         <date when="1903">1903</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+
+	
+        <pb n="65">
+        <p>notado nada. Abra el paraguas y séquese esas lágrimas.</p>
+        <p>Y al ofrecerle el pañuelo, las suyas temblaban redondas y congeladas en las puntas de las pestañas. Lágrimas de coraje que le rezaban las mejillas sin deshacerse.</p> 
+        <milestone unit="separation"/>
+        <p>Allá arriba, al volver un recodo de las sendas, asomaron los conductores de <name type="city">San Roque</name>. En la meseta del descanso complementóse la procesión. El <hi rend="cursiva">Dotorcito</hi> apostrofó al Santo, entre lloros y deprecaciones. "¡Ay! ¡Quién, quién fuera la perrita pa lambele la llaga!" Ahí le entregaba ese rebaño; y, pues era él atador milagroso de toda enfermedad, los librase, ante todo, del rayo del pecado, y se cumpliera después la voluntad de Dios y de "mi padre San José". Gimieron las mujeres con estrépito y los hombres en silencio. Sonó la marcha, se acompasó el clamoreo, volvieron cara al</p>   
+        <pb n="66">
+        <p>pueblo los santos titulares y principió el descenso.</p> 
+	    <p>De las andas del huésped pendían, como penachos de oro, ramos exuberantes de Americana; cubrían la alta base manojos de <hi rend="cursiva">Flor de uvito</hi> y de <hi rend="cursiva">Yedra</hi> de <name type="city">San Juan</name>. Maravillábase la chiquillería con aquel santo tan lindo, que tenía sombrero, bordón con calabaza, llaga y perrita lamedora.</p> 
+        <p>Según bajaba la romería, se iban calmando los gemidos. De boca en boca pasaba una noticia consoladora en su mismo desconsuelo: el padre <name type="person">Salamanca</name> se había demorado en <hi rend="cursiva">El Castillo</hi> por haber tenido que auxiliar dos atacados. Luego <hi rend="cursiva">El Rayo</hi> daba espera. </p> 
+        <p>Terminaba el día con la tranquilidad de un justo. El poniente de lumbres desteñidas; las montañas despejadas y azules; el reposo del valle; la solemnidad de la hora, obraban en la creyente multitud, al parque el alivio de las preces y el desahogo del llanto. <hi rend="cursiva">Sursumcorda</hi>. Porque arriba estaba el puerto, arriba </p>
+	    <pb n="67">
+        <p>estaba la esperanza. Sobre la tierra misma parecía reflejarse: allá abajo, arrebujada en su manto de verdores, mostrando <reg>a</reg> trechos la albura de sus paredes, veíase la aldea sentenciada. ¡Cuánta paz! Parecía una enferma, <reg>ya</reg> ungida, que aguarda ansiosa la hora de la cita. Divisábase la torre de la iglesia como un anteojo ebúrneo, dirigido el cielo por el lado que alarga; por el de la fe, que abre horizontes infinitos, que busca la inmensidad para volar serena y luminosa. Junto a él la iglesia, en el trunque nivelado de una colina, blanqueaba el camposanto. ¡Cuán hermoso en su misma sencillez! La alfombra de hierba que lo cubre, la sombra de tánta cruz, el misterio que lo envuelve, convidan <reg>a</reg> dormir el sueño de la vida. </p>
+        <p>El grupo de las Duartes, ingerido entre la turba, llevado de aquí para allá, no alcanzó <reg>a</reg> llegar hasta El <hi rend="cursiva">Dotorcito</hi>. Estancadas en la estrechuras, quedaron al fin y al cabo las últimas de la cola, con dos de los chiquillos, solamente, pues <name type="person">Jorge</name> </p>
+	    <pb n="68">
+        <p>se había enrolado en el centro de la romería. </p> 	
+	    <p>Al verse solas, recostóse <name type="person">Regina</name> en un cercano <reg>a</reg> la vera del camino. Por el ánimo de <name type="person">Laura</name> pasó el terror. </p>
+	    <p>—¿Qué siente, niña? —exclama en el colmo de la angustia. </p>
+	    <p>—No se asuste: no es nada. (La voz y la cara la desmentían). </p>
+	    <p>—Algo tiene muy horrible. ¡Tiene qué tener! ¡Qué hacemos, Dios mío! </p>
+	    <p>—Si no es nada, <name type="person">Laura</name>. <reg>Ya</reg>  usted está creyendo que es <hi rend="cursiva">El Rayo</hi>. </p> 
+	    <p>—¿Siente la picada?..... ¡La siente, niña, no me lo niegue! </p>
+	    <p>—No sea aprensiva. No me pica ni me duele nada. No tengo sino desaliento. </p>
+	    <p>—¡Pero si está oprimida, si no puede hablar! (<name type="person">Laura</name> quiso aflojasrel los vestidos; <name type="person">Regina</name> no lo permitió). </p>
+	    <p>—Si no es nada.... <reg>Ya</reg> se me está pasando. </p>
+	    <p>Recostóla la hermana en el regazo; una convulsión violenta le sobrevino; la respiración le faltaba. <name type="person">Laura</name>, desesperada, dando gritos, </p> 
+        <pb n="69">
+        <p>la sacudía como <reg>a</reg> un niño. <name type="person">Regina</name>, por un esfuerzo supremo, dio una respiración, lanzó un grito ahogado y estalló en sollozos, en sollozos largos, profundos, comprimidos mucho tiempo. </p>
+        <p>Pudo entonces levantarse, sacudirse. Se estremecía levantarse, sacudirse. Se estremecía toda como si la azotaran. <name type="person">Laura</name> ordenó al mayor de los hermanos corriese al pueblo <reg>a</reg> pedir auxilio y quién llevase <reg>a</reg> <name type="person">Regina</name>. </p>
+	    <p>—¡Nó, nó, Eduardo!—gritó ella— ¡No vaya <reg>a</reg> asustar <reg>a</reg> mi mamá! Esto no es nada. </p>
+	    <p>—¡Estás muy mala!-plañe la otra. —No puede irse por sus pies. </p>
+	    <p>—Sí puedo.... Vea que sí. </p>
+	    <p>Dando cinco <reg>o</reg> seis pasos fue <reg>a</reg> sentarse en una piedra, trémula y palpitante. </p>
+	    <p>Parecía calmarse. </p>
+	    <p>—Pero.... ¿qué le ha dado?-preguntó <name type="person">Laura</name>, al cabo de un momento. </p> 
+	    <p>—No sé: una cosa parecida <reg>a</reg> lo que sentí cuando me envenené con higuerón. Pero <reg>Ya</reg> me va pasando. </p>
+	    <pb n="70">
+        <p>—Llore, niña, bien duro-exclama <name type="person">Laura</name> llorando también-llore y verá cómo se acaba de aliviar. </p>
+  	    <p>—<reg>Ya</reg> lloré —contestó <name type="person">Regina</name> arreglándose la ropa. </p>
+        <p>—¡Por Dios!....¿me vio alguno cuando me dio eso? </p>
+	    <p>—¡Si no ha pasado un alma!...... —contesta la hermana enjugándose las lágrimas. </p>
+	    <p>Infundiéndose valor una <reg>a</reg> otra, fingiéndoselo, permanecieron todavía unos minutos, y, <corr>luego</corr> <reg>a</reg> poco, siguieron el camino, asidas por el brazo. En el ánimo de la hermana mayor <corr>surgía</corr> el problema. ¿Cómo ocultarle <reg>a</reg> <name type="person">mamá</name> la escena con <name type="person">Marcial</name>? ¿Cómo contársela? De un modo <reg>u</reg> otro, era ella la responsable de lo ocurrido, por haber metido <reg>a</reg> <name type="person">Regina</name> en la romería, contra el parecer de Doña <name type="person">Antonia</name>. <reg>Ya</reg> no sentía miedo al <hi rend="cursiva">El Rayo</hi>: sentía una angustia extraña, un temor que no podía definir. <name type="person">Regina</name> le daba bromas sobre el que ella le había ocasionado momentos antes. <name type="person">Laura</name> no </p>
+        <pb n="71">
+        <p>entendía: ¿fingía <name type="person">Regina</name> por desalarmarla, <reg>o</reg>, realmente, no daba al asunto ningún significado? 
+        <milestone unit="separation"/>
+        <p>A tres cuadras aquende <hi rend="cursiva">El Puerto Real</hi> irían las señoras, cuando, por la partida que conduce, precisamente, <reg>a</reg> <hi rend="cursiva">La Remanga</hi>, se oyeron voces lastimeras y desoladas. Por las articulaciones bozales, comprendieron al punto quién era el cuitado. </p>
+        <p>"¡Si calai! <hi rend="cursiva">Amito</hi> pegó <reg>a</reg> su nego, porque le ijo su veldá. <hi rend="cursiva">Amito</hi> lo lumbó <reg>e</reg> la casa, como <reg>a</reg> un pelo gusamiento! Ay! ¡Qué halá sin <hi rend="cursiva">Amito</hi> el nego <hi rend="cursiva">Faciquí!</hi> ¡Qué halá en la vida! <hi rend="cursiva">Faciquí</hi> se güelve ponde <hi rend="cursiva">Amito</hi>, manque lo mate <reg>a</reg> las patadas". </p>
+        <p>Y seguía llorando <reg>a</reg> solas, tirado boca abajo en el camino. </p>
+        <p>Adoraba en <hi rend="cursiva">Amito</hi>; era <hi rend="cursiva">Amito</hi> su religión. En ese espíritú triste y caótico no existía más noción precisa que <name type="person">Marcial Rodríguez</name>. Era el <corr>ser</corr> providente qué, imperando en él por ley de soberano, le daba hasta </p>
+        <pb n="72">
+        <p>la vida. Su negra existencia dividíala en dos partes: antes y después de <hi rend="cursiva">Amito</hi>. Antes: Azotes, hambre, miseria, la crueldad del blanco, el yugo horrible del que sin ser esclavo por ley lo es por raza y por herencia, por estupidez <reg>e</reg> inutilidad. Después, un <corr>ser</corr> humano que le dispensa atenciones, que lo eleva <reg>a</reg> la categoría  de persona, que le da el pan, que le arroja un mendrugo de cariño. Todo esto, sin explicárselo, por supuesto, sentíalo el negro en su propio embrutecimiento; y la gratitud reventaba en sus entrañas como chorro de agusa comprimida. </p>
+        <p>Nadie supo en <hi rend="cursiva">La Blanca</hi> la procedencia del <name type="person">Francisco</name>, ni la sabía él mismo. Su edad tampoco podía calcularse. Jamás se le ocurrió suponer que pudiera tener padres, hermanos, afectos y edad como los hombres. Tan escasa noción debía tener del yo, que casi siempre se nombraba <reg>a</reg> sí propio en tercera persona y con el mote cariñoso emanado de <name type="person">Marcial</name>. </p>
+        <p>Vino <reg>a</reg> manos de Don <name type="person">Juan Rodríguez</name>, entre los bienes heredados </p>
+        <pb n="73">
+        <p>de un tío suyo, sacerdote de muchos caudales. Vino como un bien mostrenco, como una excrecencia. No era esclavo, sin embargo, que <reg>ya</reg> por ese entonces se había abolido la esclavitud. Para todo menester mostrábase inútil, torpe y perezoso. Era un <corr>ser</corr> inerte, sin deseos, sin pasiones aparentes; un andrajo arrojado al pudridero de la vida. Fuera de cantar, no se le conocieron más aficiones ni habilidades. </p>
+        <p>Sin que diese razón de dónde los tomara, cantaba unos aires extraños, de indecible tristeza; algo como yaravíes, que en nada se asemejaban <reg>a</reg> los cantares de nuestras montañas. Acaso fuesen la nostalgia africana, el cuerdo del bosque y de la tribu, transmitidos hasta <name type="person">Francisco</name> ; tal vez los inspiraron la noche triste del cautiverio, las flagelaciones de un <corr>ser</corr> querido, la mercancía palpitante de algún barco negrero. </p>
+        <p>Es lo cierto que al africano parecía dolerle alfo muy hondo, cuando entonaba aquellos aires. Conmovía fibras desconocidas su voz </p>
+        <pb n="74">
+        <p>dejativa y melancólica; daban risa esas articulaciones bozales <reg>e</reg> infantiles que excluyen la erre. Cuanto oía lo contaba al <reg>son</reg> de sus vihuela; pero todo, bien fuese el bunde más regocijado, le salía <corr>triste</corr>, impregnado de nostalgia. </p>
+	    <p>Pusiéronlo un día <reg>a</reg> cuidar <reg>a</reg> <name type="person">Marcialito</name>, y una nueva vida se inició en <name type="person">Francisco</name>. Entre los dos se fue formando el vínculo del afecto y del compañerismo, quedando con los motes de <hi rend="cursiva">Amito</hi> y <hi rend="cursiva">Fraciquí</hi> que mutuamente se pusieron. Para servir <reg>a</reg> su niño, sacó energías de su inercia y actividades de su pereza. El corazón del negro se despertó. Conmovía ver aquel tipo clásico del <name type="country">Congo</name>, miserable y triste, interesante por su significado y por la suprema fealdad, velando con el fanatismo de un culto, al vástago endeble de la raza enemiga; cargando siempre <reg>a</reg> aquel chiquitín, rubio <reg>e</reg> inquieto como una ardilla. </p>
+	    <p>Vivían entonces en <hi rend="cursiva">La Remanga</hi>. Cuando se lo quitaron para ponerlo en la escuela, el negro vagaba </p>
+        <pb n="75">
+        <p>por los rastrojos, lloroso, alelado, sin objetivo en la vida. Crecido <hi rend="cursiva">Amito</hi>, hecho un hombrón antes de tiempo, fue para el salvaje trasplantado, el jefe de su tribu. Al saludarlo, después de alguna ausencia, las lágrimas le corrían, y le besaba las manos y el vestido. </p>
+        <p>En la novia de <name type="person">Marcial</name> veía un mito, una divinidad bienhchora que en algún tiempo no muy distante debía embellecerle, encantarle la vida. Servirle siempre, servirle de rodillas era su sueño. Varios sábados, por la noche, después de algún aquelarre de tamales y aguardiante, llevábalo el galán <reg>a</reg> que cantase en las ventanas de la amada. ¡Qué trastorno! ¿Cuándo se dio en el orbe más alto magisterio? "<hi rend="cursiva">Fraciquí</hi> cantando <reg>a</reg> la princesa".... decía el ilota, y esos ojos esféricos, cuyo blanco lo parecía más en esa caraza de hollín, fulguraban entonces humedecidos por el enternecimiento. </p>
+        <p>Esta adhesión, esta fidelidad de perro, pagábala al amo <reg>a</reg> su manera: cariño <reg>a</reg> ratos, pescozones con </p>
+        <p> frecuencia, lagueza siempre. Tal era <hi rend="cursiva">Fraciquí</hi>. 
+	    <p>Tirado en el pedrisco del camino, seguía en sus lamentos. Las señoras pasaron de largo por la encrucijada atajando <reg>a</reg> los hermanos que pretendían acercársele, para imponerse del suceso. Siguieron adelante, y, entrando al puente, unióseles <name type="person">Jorgito</name>, <reg>a</reg> quien suponían <reg>ya</reg> en el pueblo. </p>
+        <p>¡Chupá, <name type="person">Regineta</name>!—grita el chicuelo sacudiendo la mano y haciendo chocar el índice contra el cordial —Chupá, que <hi rend="cursiva">Amito</hi> se volvió para <hi rend="cursiva">La Remanga</hi>… Hi ! Hi !....
+        <p>Después que se contentaron. </p>
+        <p>¡Qué sabés vos, entrometido!­ —dice <name type="person">Laura</name> realmente incomodada. 
+        <p>—¡No sabré! No vería yo, cuando estaba subido en el guayabo, que él se dentró <reg>a</reg> la <hi rend="cursiva">manga</hi> <reg>a</reg> conversar con vustedes. </p>
+        <p>Y. sin más réplica, tiró adelante como un rehilete, en alcance de la romería. ¡Ahora sí! El secreto estaba descubierto. Cuántos disparates iría <reg>a</reg> llevarle <reg>a</reg> mamá ese ene- </p>
+         </div>
+      </body>
+  </text>
+</TEI>

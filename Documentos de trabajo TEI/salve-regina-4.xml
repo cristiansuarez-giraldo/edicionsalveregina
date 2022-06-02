@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+                <author></author>
+            <respStmt>
+                <resp></resp>
+                <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace></pubPlace>
+         <publisher></publisher>
+         <date when="22"></date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         </div>
+      </body>
+  </text>
+</TEI>
+<pb n="41">
+<p><name type="person">Valencia</name>; los zarcillones de pensamientos, unos pensamientos sublimes, radiantes como los de un hortera enriquecido; cadenas capaces de enlazar el corazón más cerrero. Siguen las gallinas, casi muertas las pobrecitas; tres piscas medio dormidas, en brazos de sus respectivos cristianos; un ganso muy furioso; y la mar de pollos, ensartados también. Viene <sic>luégo</sic> la ofrenda del labrador: cargas de maíz y de fríjol, árguenas repletas de cuanto Dios ha creado, racimos, gajos, todo eso que ahora no tenemos. ¡Atrás! que viene la grande, la ensoñadora ofrenda	: el ganado: tres <name type="personRoleName">príncipes</name> del hato y seis <name type="personRoleName">princesas</name>. Los sigue la gente de <name type="person">Epicúreo</name>. Siete por todos. Hasta el gran <name type="personRoleName">filósofo</name> en persona será aquel adiposo que viene tan cansado.</p>
+	<p>Todo aquello, arreglado y dispuesto por <name type="person"> Don  Hermógenes</name> tiene el aparato de la exhibición y el deslumbramiento del triunfo. El pueblo se pasma. ¡ Con <hi rend="cursiva">El Dotorcito</hi>no hay qué hacer! Si en esta vez</p> 
+<pb n="42">
+   <p> no termina la capilla, será que no la quiere <name type="person">San José</name></p>.
+	<p>Repartidas y guardadas convenientemente las ofrendas, entraron á la iglesia al hacimiento de gracias. El Señor Caído y <hi rend="cursiva">El Dotorcito</hi> salieron, luégo, para la casa de <name type="person"> Don Guillermo</name></p>. 
+<milestone unit="separation"/>
+	<p>"¡Ay, mi señá <p><name type="person">Antoñita</name>!", exclamó, y no pudo seguir porque la emoción lo embargaban. Para expresarla le faltaban lágrimas, este <sic>dón</sic> que en él parecía inagotable. ¡Cómo no dejarlas correr <sic>á</sic> raudales! En <name type="placeGeog">San Javier</name>, en <name type="placeGeog">Dolores</name>, en <name type="placeGeog">Santa Pelagia</name>, en las otras aldeas limítrofes, existía el Cristianismo, como en los tiempos primitivos. ¡Bendito fuera Dios, bendita la Santísima Virgen y bendito "mi padre <name type="person">San José</name>!"</p>
+	<p>No mentía el seráfico sacerdote. Al ruego de sus lágrimas se ablandaban corazones; su vocecilla, compungida y entrecortada por el llan-</p>
+<pb n="43">
+    to, resonaba en el alma del campesino, como el mandato expreso de Dios mismo. Pedía, y los más apegados al bien perecedero se desprendían de todo; lloraba, y por la multitud corría el llanto. Para el pueblo era un santo, un elegido, un profeta. </p>
+	<p>Andaba <sic>á</sic> pie por todas partes, rezando siempre, seguido de ferviente muchedumbre ; cuatro hombres cargaban <sic>á</sic> su lado la imagen del Señor Caído ; en nombre de <name type="person">Jesús</name  > pedía; por la sangre preciosa sollozaba, y sobre la imagen llovían las ofensas. Despojábanse las señoras de sus joyas; vaciaban los campesinos sus carriales; la pobre labriega ofrecía el fruto de sus huerto ó el ave familiar ; el infeliz, que nada poseía, ofrendaba sus lágrimas. A la voz <hi rend="cursiva">El Dotorcito</hi> nada se resistía. </p>
+	<p>No tenía curato : levantar siempre la casa del Señor era su empeño, no vivir <sic>á</sic> expensas de ella. A toda población donde se construyese templo se le llamaba y allí acudía. A pedir para la capilla de "mi </p>
+<pb n="44">
+    padre <name type="person">San José</name >" había venido <sic>á</sic> <name type="placeGeog">La blanca</name>, últimamente, como viniera en antes, cuando se edificaba la iglesia. El vecindario lo veneraba: todos se lo disputaban como huésped; todos, al tenerlo en casa, creían poseer una deidad tutelar que atraía bendiciones. El había escogido siempre para tan santo privilegio el hogar de <name type="person">Don Guillermo Duarte</name >. </p>
+	<p>Figura harto extraña y peregrina la de <hi rend="cursiva">El Dotorcito</hi>. Por aquel entonces parecía su cara la de una viejecilla sin arrugas, fina y blanca de cutis: ni pelo de barba, rosadas las mejillas y un no sé qué virgíneo <sic>é</sic>   infantil regado por todas las facciones. Ni siquiera un cerquillo de cabello asomaba por detrás de aquel cráneo, pelado como una calavera. Andaba con los pies hacia adentro lo mismo que un loro, y era tal su estatura que, al misar, le arrastraba al alba cual faldamenta de baile, y la casulla le venía hasta los calcañales, toda descodalada sobre los hombros diminutos. Jamás omitía la explicación del evangelio ni el llanto en el momento de la 
+<pb n="45">
+    elevación y al dar de comulgar. En nombrando <sic>á</sic>  la Virgen <sic>ó</sic>  <sic>á</sic>   "mi padre <name type="person">San José</name >"-su santo predilecto-largaba el chillido como un niño ; y su vocecilla, que nunca tuvo ronqueras de virilidad, daba entonces una notas que más se asemejaban <sic>á</sic> maullidos que <sic>á</sic> articulaciones humanas. </p>
+	<p>Era una latinista consumado, y, según datos fehacientes, muy docto <sic>é</sic>   ilustrado en humanidades y ciencias elesiásticas. Mas toda esta sabiduría terrenal estaba subrogada en <hi rend="cursiva">El Dotorcito</hi>, por aquella otra sapiencia de los bienaventurados, como que el sermón de la montaña era la norma de sus actos y la clave de su carácter. </p>
+	<p>Pasión alguna <sic>ó</sic> concupiscencia, de estas que <sic>á</sic> todos nos traen y nos llevan, jamás se le conoció. Una peseta era en sus manos ascua encendida que endosaba al primero que encontrase. Regalo para su cuerpo, nunca jamás: dormía en cualquier parte, con tal que no fuese en cama; por alimentos, lo que le diesen, con tal que fuese poco ; </p>
+<pb n="46"> 
+    y, si nada le daban, aguantaba hambre, como bohemio orgulloso de la santidad. Jamás usó ropas interiores, sino los pantalones de manta del reino, bajo la verdosa sotana de merino. Tampoco tuvo el lujo de las medias; pero sí el de la tortura: ponía dentro del calzado granos de maíz. Así y todo andaba muy ligero, moviéndose constantemente con inquietud nerviosa, sin sentarse un solo instante. Rezaba sólo lo indispensable, persuadito, probablemente, que sus acciones, su pensamiento, su verbo, su vida, todo él, eran una perpetua oblación. 
+<p>Por facultad superior, <sic>ó</sic> porque él mismo se la concediese <sic>á</sic>	 fuero de santidad, absolvía al primer pecado, advirtiendo al penitente que principiase por los menudos y atajándole el paso, si pretendía irse <sic>á</sic> mayores. Claro está que los hombres le caían como moscas al panal, mientras que al mujerío, tan prolijo y desmenuzador de suyo en achaques pecaminosos, no le satisfacía este sistema de <hi rend="cursiva">zapoteo</hi></p>. 
+	<p>A su oratoria, lacrimosa y geme-
+<pb n="47"> 
+    bunda, informada siempre del más estricto espíritu teológico, mal podría faltarle la nota lírica de su cómica inocencia. A este respecto tenía cada salida, que el auditorio estallaba en piadosa hilaridad. </p>
+	<p>"¡Ay! mis amados feligreses !-lloraba una vez-si mi Dios me manda pal infierno, yo me muero de repente!" En un sermón del descendimiento, después de llorar <sic>á</sic> todo pecho, y con él todo el vecindario, grita <sic>á</sic> los músicos desde el púlpito: "¡Toquen una polquita bien alegra, pa que la Virgen se consuele !" Al terminar toda función, rezaba siempre el padrenuestro por el clarinete, y la salve por la tambora. En tiempos anteriores, cuando <hi rend="cursiva">El Dotorcito</hi>,  tenía parte de su familia en el lugar, vino hasta esas Batuecas aquella moda femenil, vitanda y execrable que <sic>tánto</sic> ocupó al clero de la época. La trascendencia del pecado llegó hasta el santo. Un domingo sube al púlpito, y, entre aguacero de llanto y de sollozos, truena y relampaguea contra "ese uso, tan horrible, inventa-
+<pb n="48">  
+do por la diabla". Pero héteme aquí que al volver <sic>á</sic> casa le sale la hermana: "¡, por Dios!... ¡Usted sí que es injusto! ¿Cómo se pone <sic>á</sic> predicar contra este uso de ahora, sabiendo que mis muchachas se ponen? ¿No sabe que es muy bueno para las pobres, que no tienen harta ropa?"-"Yo no sabía, hermanita-repone el seráfico-Pero no se le dé nada, que yo le arreglo eso". Y muy bien que se lo arregló: al domingo siguiente, dice desde el altar: "Mis amadas feligresas: el otro día se me olvidó advertirles que las que sean pobrecitas y chamizudas, como las hijas de mi hermana <name type="person">Valeria</name >, pueden usar una crinolinita moderada". </p>
+	<p>Al tenor de estas genialidades conserva la tradición un copioso repertorio. </p>
+	<p>¿Qué mucho, pues, que fuera el hombre para el pueblo de las montañas? Varios templos de <name type="placeGeog">Antioquia</name>,  los levantaron sus lágrimas. </p>
+	<p>Como se ha dicho, hosperdábase siempre en casa de <name type="person"> Don Guillermo</name>. Era en su hogar como un numen. </p>
+<pb n="49">   
+    <p>Ocupaba la sala, una sala grande y encalada; allí tenía sus libros y la imagen del señor Caído, su compañero de andanzas y de vivienda; allí acudían los mantañeses como <sic>á</sic> la gruta de un profeta. </p>
+	<p>A semejanza de <name type="person">Cristo</name>., era amigo de los niños y de los infelices; pero los chicos de <name type="person"> Doña Antonia</name>, <sic>á</sic> quienes infundían cierto recelo el aire extraño y el llorar del sacerdote, huían de él <sic>á</sic> pesar de sus reclamos. No así <name type="person">Regina</name>,: el santo la atraía, le inspiraba esa seguridad, mitad respeto, mitad ternura, que sienten los buenos ante los predestinados. En su presencia experimentaba ella como un descanso de la vida, como un soplo fresco y perfumado que la aliviaba y le hacía olvidar. </p>
+	<p>De tal modo que, en cuanto el decoro y las circunstancias lo permitían, buscaba siempre su trato y compañía. El, por su parte, le pagaba con creces: desde niña la quería, como puede querer un eremita <sic>á</sic> un ángel del Señor, y asimismo seguía queriéndola : Llamábala siem-
+<pb n="50"> 
+    pre <hi rend="cursiva">El Dolatro</hi>, dictado cariñoso que en la jerga montañesa vale tanto como idolatría <sic>ó</sic> cosa adorada. </p>
+	<p>Congregados en un rincón de la sala, leíale ella algunas noches, con su voz timbrada y arrulladora, algunos pasajes de El Evangelio en triunfo ó en Las Glorias de María ó en cualquiera otro obra piadosa ó apologética. El, entretanto, gemía y se paseaba, interrumpiendo la lectura con algún comentario ó explicación. </p>
+	<p>En las noches luminosas y esrtrelladas, tan serenas en ese clima delicioso de <name type="placeGeog">La Blanca</name>, pasaban las veladas en los corredores. Entre alabanzas al Señor, enseñábale el sacerdote las constelaciones y las maravillas astronómicas, escuchando ambos por momentos los rumores de la cascada, que se percibían en la tranquilidad de esas noches. </p>
+	<p>En su instinto de madre bien se le alcanzaba á <name type="person">Doña Antonia</name> la conveniencia de estas relaciones. Por eso las procuraba como un remedio. La señora había solicitado del san-
+ <pb n="51">    
+    to que pidiese por una necesidad de la familia; mas, temerosa de que saliese en el púlpito con alguna de las suyas, nada había querido concretarle. El, desde luego, dijo en plena misa, al principiar el momento: "Pidamos por una necesidad muy grande de mi señá Antonita", y de ese día en adelante siguió pidiendo. </p>
+	<p>Así y todo, yá desesperaba la señora, como hemos visto. Cada día que pasaba le iba dejando una gota de hiel y una chispa de rabia: de jovial y ecuánime que era, íbase poniendo displicente y atrabiliaria. Hasta del poder de El Dotorcito desconfiaba yá. </p>
+	<p>Valiérala Dios con el tal pretendiente. Valiérala con su hija <name type="person">Laura</name>, que no se ponía bien en el asunto. </p>
+    <milestone unit="separation"/>
+	<p>Yá nadie se acordaba en el pueblo de los augurios del <name type="personRoleName">padre</name> <name type="person">Salamanca</name>; y, sin embargo, ahí venía el castigo; ahí venía, horrible, espan-</p>
+<pb n="52"> 
+    toso. El anuncio corrió por la comarca como un rayo que <sic>á</sic> todos aturdiese. Rayo era en efecto: un rayo sin relámpago, sin estallido, que no rasgaba el aire, que caía sobre la víctima, callado y misterioso, como la ejecución secreta de la divina sentencia. </p>
+	<p>El Rayo!.... así se llamó al punto y no pudo llamarse de otro modo. El pánico, la locura, se apoderan de <name type="placeGeog">La Blanca</name>. Las noticias llegan y llegan cada vez más pavorosas: En <name type="placeGeog">San Javier</name>, en <name type="placeGeog">Santa Ana</name>, en <name type="placeGeog">El Hato</name>, en los partidos, en todo el valle, caen las víctimas sin cuento. Ni capilla, ni tregua, ni nada : el ajusticiado siente una picada, y se desploma; siente otra, y grita; siente la tercera, y allí que da rígido, marmóreo como muerto de seis horas. ¡Qué espanto! <name type="placeGeog">La Blanca</name> cercada, <hi rend="cursiva">El Rayo</hi> se aproxima; yá llega, yá llegó. Como el de las tormentas materiales, busca primero las alturas: pot los desfiladeros de las montañas, ya una, ya dos, ya varias, van descendiendo, rápidas y afanadas, cual escara</p>
