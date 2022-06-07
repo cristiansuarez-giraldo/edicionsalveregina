@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salve Regina</title>
+                <author>Tomás Carrasquilla</author>
+            <respStmt>
+                <resp>Codificación y edición</resp>
+                <name>Camila Vélez-González</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Medellín</pubPlace>
+         <publisher>Imprenta Oficial en Medellín</publisher>
+         <date when="1903">1903</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+		<pb n="53">
+        <p>bajos fugitivos, las mortuorias barbacoas.</p>
+        <p>Primero que ellas ha llegado el castigo: una lavandera ha sentido el golpe, y antes de caer al agua, <reg>ya</reg> estaba muerta; un mendigo, que comía, no tuvo tiempo de tragarse el bocado.</p>
+		<p>El pueblo invade el templo, abierto hasta media noche; las hembras no desdeñan <reg>ya</reg> al <hi rend="cursiva">Dotorcito</hi> y se confiesan de un soplo; muchos empedernidos corren al purificadero. El alcalde da bando; nadie quiere estar solo en su casa y se agrupan en las más capaces; en todas partes se oye El Trisagio y los rezos colectivos; en todas se alumbran santos, se sacan escapularios, y se encienden las ceras benditas. Acuden las gentes de los campos <reg>a</reg> esta feria de la muerte; bárrense calles y plaza; se hacen hogueras con la basura; por dondequiera se riega el suelo con zumo de naranja; por dondequiera se esparce ruda y ramas de romero; el alcanfor se agota en un instante;</p>
+	
+		<pb n="54">
+		<p>todos se cuelgan saquitos <reg>a</reg> guisa de pectorales. </p>
+		<p>Convoca <reg>a</reg> rogativa el padre Salamanca.</p>
+		<p>Ante todo hay que subir en romería hasta <hi rend="cursiva">El Castillo</hi> y traer <reg>a</reg> <name type="name">San Roque</name>, venerado en casa de los Medinas. <hi rend="cursiva">El Dotorcito</hi> quiere que la patrona y San José honren al abogado de la peste saliéndole al encuentro, al <corr>son</corr> de música.</p>
+		<p>Reina Julio en todo esplendor de la canícula; semeja el cielo dilución clara de zafiro; el sol aumenta el relieve de las montañas y esmalta las aristas; la cascada, alba, plumosa, incandescente, se glorifica en su blancura. </p>
+		<p>A las dos <corr>párte</corr> el párroco con la primera tanda, que ha de traer el santo, <reg>a</reg> las tres sale <hi rend="cursiva">El Dotorcito</hi> con la procesión del encuentro. A medida que avanza va engrosando con las gentes que le llegan de los campos. Las mujeres, todas lacrimosas y doloridas, van tocadas con los pañolones; la chiquillería quiere pronerse <reg>a</reg> la altura del conflicto <reg>e</reg> inventa extremos más <reg>o</reg> me-</p>	 
+		
+		<pb n="55">
+		<p>nos fingidos; grandes y chicos, mujeres y hombres, quieren marchar junto al santo vivo, junto al pararrayo. La procesión se detiene en <hi rend="cursiva">El Puente real</hi>, y el sacerdote habla. No llora en esta vez: exhorta <reg>a</reg> la esperanza. Como Collet <reg>a</reg> la guarnición francesa, promete confesar de una vez <reg>a</reg> la romería entera. Al <corr>son</corr> pausado de una marcha entona el rosario y comienza el ascenso por el pedregoso sendero. Se arracima, se aclara, se desbarata en el vértigo del fervor; suben los fieles una octava del diapasón; el rosario se difunde como un clamoreo. Los monagos, dispersos y enredados, trepan por los ribazos del camino; la cruz y los ciriales se destacan fantásticos sobre los barrancos y charrascales; los santos presentan en paraje tan agreste, aire extraño de transfiguración; la patrona aparece más reina <reg>e</reg> inmaculada bajo los penachos de palmeras, bajo el dosel de los guaduales. La procesión sube y sube. Los hombres se cubren con las ruanas, y los golpes rojos de la bayeta resaltan entre el obscuro mu</p>
+		
+		<pb n="56">
+		<p>jerío como cuajarones de sangre. Se ha avanzado demasiado y <name type="city">San Roque</name> no parece. La procesión se detiene en <hi rend="cursiva">La Meseta</hi>: hay un momento de descanso. </p>
+		<p><name type="person">Laura</name> y <name type="person">Regina</name>, que andan con los chicos, se entran por una cancilla <reg>a</reg> la finca de <name type="person">Don Guillermo</name> y van <reg>a</reg> sentrase en unas piedras <reg>a</reg> la sombra de unos arrayanes. Los rapaces, ajenos de cuidados, corren al bosquecillo de guayabos. </p>
+		<p>La joven está turbada y sobrecogida: ha estado <reg>a</reg> poca distancia de <name type="person">Marcial</name>. Le ha dicho él con los ojos cosas tan dulces y terribles que ella no ha resistido <reg>a</reg> <corr>tanta</corr> elocuencia: <reg>a</reg> su vez lo ha mirado con ojos más amorosos que lo fueron siempre. Este retorno al pasado; esta recaída, después de una enmienda de ocho meses, la asusta y la acobarba. La asusta la ráfaga de dicha, el estremeciemiento. el transporte que ha sentido al <corr>encontrarse</corr> las miradas. Se había jactado de fuerte, y allí estaba la prueba. No, no, ¡Imposible! Estimular amor en ese hombre, era un delito ; estimular</p>
+	
+		<pb n="57">
+		<p>lo en ella, otro mayor. ¡Qué amargura! ¡Qué despotismo del destino! Ni ser buena, ni tener aspiraciones altas, ni amar lo digno le era <reg>ya</reg> posible en este absurdo de su vida. Y mirando el picacho llamado <hi rend="cursiva">La Cueva del ermitaño</hi>, que se alzaba al frente como un escombro, sintió, con intensidad harto, honda y categórica, la atracción del aislamiento. ¡Qué dulzura y qué paz! Arrojar del corazón <corr>tanto</corr> lodo miserable; sacar de la cabeza tan ruines pensamientos; purificarse; no pensar sino en Dios, en el alma, en el cielo.... eso sí era vivir y triunfar. ¡Qué delicia sería amar <reg>a</reg> Dios como manda la doctrina; qué delicia sufrir por Dios, dejarlo todo para buscarlo allá arriba, en las soledades de la montaña! Pero ella.... Ah! Estaba tan envilecida, era <reg>ya</reg> tan pecadora, que sólo el pecado y la vileza la atraían. </p>
+		<milestone unit="separation"/>
+		<p>—¿Estás muy cansada?—le pre-</p>
+		
+		<pb n="58">
+		<p>guntó <name type="person">Laura</name>, al notarla tan triste y abstráida.—¿O es que al fin te va entrando el miedo? </p>
+		<p>—Estoy algo cansada. No mucho. Todavía no tengo miedo: creo que no me dará.</p>
+		<p>—¡Quién fuera usted, <name type="person">Regina</name>! A mí se me ha pasado un poquito esta tarde; pero siempre tengo mucho. ¡Con tal que este rayo tan horrible no vaya por  <name type="person">Remedios</name>!.... ¡Figúrese!....¡Allá ni <corr>un</corr> cura habrá! </p>
+		<p>Viendo que la joven seguía en su mutismo exclamó <corr>luego</corr>:</p> 
+		<p>—Usted también tiene miedo. No lo niegue. </p>
+		<p>—¿Para qué se lo negaba? <hi rend="cursiva">El Rayo</hi> no puede hacerme <reg>a</reg> mí sino un beneficio. </p>
+		<p>—¡No digas eso, niñas!—replica <name type="person">Laura</name>, en tono dolorido de reproche—Si el señor cura le oye esas palabras, le mete su buen regaño.</p>
+		<p>—Tal vez sí—contesta <name type="person">Regina</name> con aire de fatiga—No he debido decirlo: fue un disparate que se me vino. ¿No has visto, pues, las bobadas con que salgo?</p>
+
+		<pb n="59">
+		<p>—¿Bobadas?.... El que no te entienda....</p> 
+		<p>Y <reg>a</reg> poco agrega : </p> 
+		<p>—Por ahí andaba aquel marchante, que se le salían los ojos, detrás de nosotras. ¿Cómo te fue, que no supe? </p> 
+		<p>—<name type="person">Laura</name>.... recemos el rosario. </p> 
+		<p>—¿Otro? Pero si hemos rezado mucho. </p> 
+		<p>—Yo no recé nada en formalidad: he estado tan envolatada. </p> 
+		<p>—Eso sería aquél que te quitó la devoción. Ello dirá. </p> 
+		<p>—Recemos, <name type="person">Laura</name>. </p> 
+		<p>—¡Pero, niña, si no tenemos tiempo!.... Los de arriba no deben demorarse. </p> 
+		<p>—Aunque no sea el rosario. ¡Cualquier cosa! </p> 
+		<p>Por el vallado de piedra del camino asomó la cabeza del negro <name type="animal">Fraciquí</name> en actitud investigadora. La cancilla se abre y aparece la facha arrogante de <name type="person">Marcial Rodríguez</name>. Entre resuelto y turbado, vase derecho <reg>a</reg> las señoras. Ambas <reg>a</reg> dos se sorprenden, se aturden sin poder disimularlo. Regina palidece. </p> 
+
+		<pb n="60">
+		<p>Después del <hi rend="cursiva">buenas tardes</hi> lugareño, sin tratar siquiera de cubrirse, dijo con voz un tanto incierta y demudada: </p> 
+		<p>—Perdonen, mis señoras, la imprudencia.... Hace días que asecho la ocasión de hablar con usted, <name type="person">Regina</name>. Tal vez no tenga <reg>ya</reg> ningún derecho. Pero.... usted misma me ha animado esta tarde. Yo no puedo vivir así: dígame qué ha pasado entre usted y yo. ¿Por qué ha cambiado conmigo de ese modo? Yo no puedo creer que usted sea una mujer sin corazón. ¡Imposible creerlo! Usted me ha jurado amarme hasta la tumba. ¿Qué es, pues, lo que ha pasado? Dígamelo, <name type="person">Regina</name>. Cualquiera que sea mi sentencia, yo debo oírla de su propia boca. </p> 
+		<p>Calló, y como ella, más muerta que vivia, guardase silencio, agrega <corr>luego</corr>: </p> 
+		<p>—¿Ni siquiera una respuesta le merezco? No era así hace diez meses. ¡<name type="person">Regina</name>!....¡Contésteme por Dios! Máteme de una vez, que yo prefiero la muerte <reg>a</reg> esta incertidumbre. </p> 
+
+		<pb n="61">
+		<p>—¡Qué he de contestarle, <name type="person">Marcial</name>!,—dice la hermosa, desfallecida de angustia, implorando <reg>a</reg> <name type="person">Laura</name> con los ojos.—Si yo tampoco sé qué pasa.... Yo no puedo hablar ni decir nada.  </p> 
+		<p>—No ignoro—dice <name type="person">Marcial Rodríguez</name>—que en su casa se oponen abiertamente <reg>a</reg> que usted y yo nos amenos, y que, fuera de <corr>misia</corr> <name type="person">Laura</name>, todos me hacen la guerra. Pero este punto <reg>ya</reg> lo habíamos tratado usted y yo: usted me dijo que sobre todo esto estaba el amor de nosotros.... ¿Es cierto, <name type="person">Regina</name>? Conteste.  </p> 
+		<p>—Es cierto, <name type="person">Marcial</name>—murmura ella, sin poder contener el llanto que la enajena por completo. </p> 
+		<p>—¡Entonces.... no entiendo! —exclama el joven con vehemencia—Explíqueme usted, <corr>misia</corr> <name type="person">Laura</name>, este misterio. </p> 
+		<p>—Es muy claro—contesta la señora no sin cierta entereza.—<reg>Ya</reg> que me lo pregunta, debo decírselo. Lo que cuentan de su conducta; de la vida que lleva no puede halagar <reg>a</reg> nadie, ni mucho menos <reg>a</reg> <name type="person">Re
+		
+		<pb n="62">
+		gina</name>. Todo esto la ofusca y la enreda. </p>
+		<p>—¡Ah! <reg>Ya</reg> comprendo!—exclama el caballero afortunado de <hi rend="cursiva">La Blanca</hi>—¡Chismes ridículos!..... ¡Calumnias que han regado mis dos rivales! Creen que me desprestigian, que se elevan ellos. Pero se equivocan los miserables: ¡yo sabré desmentirlos! </p>
+		<p>—¡Desmiéntalos, <name type="person">Marcial</name>, desmiéntalos!—repone la crédula señora, con verdadero entusiasmo—Pruebe usted con los hechos que todo es mentira, que usted no es lo que dicen; y yo le respondo que en casa no se opondrá nadie <reg>a</reg> sus pretensiones. </p>
+		<p>—¡Se lo prometo <corr>misia</corr>  <name type="person">Laura</name>! </p>
+		<p>Parecía más alto y vigoroso en su fingida dignidad. Era un mocetón adusto de veinte años, imberbe todavía, de pelo crespo <reg>e</reg> indómito, cara de un moreno agitanado y ojos verdosos y avasalladores. Fulminábalos en ese instante contra sus enemigos invisibles.  </p>
+		<p>—<name type="person">Marcial</name>—dice <name type="person">Regina</name> enjugándose el llanto—dejemos esto de 
+		
+		<pb n="63">
+		una vez. No piense en mí, Yo no puedo hacerlo feliz.... ni <reg>a</reg> usted ni <reg>a</reg> nadie. </p>
+		<p>—¿Que no piense en usted? No, <name type="person">Regina</name>.... </p>
+		<p>Aquí fue interrumpido. Del lado del camino oyeron voces ahogadas. Por sobre el cercado asoma la cara desfigurada de una mujer del pueblo. Manotea y gesticula como una furia; pretende treparse por el cerco. <name type="animal">Fraciquí</name> aparece tras de ella; ásela de un brazo y la echa abajo de un tirón. Al punto se deja ver el negro por los barrotes de la cancilla. "<hi rend="cursiva">¡Amito!</hi> grita asustado; <hi rend="cursiva">¡Amito!</hi> repite del mismo modo. <name type="person">Marcial</name>, fuera de sí se aboca hacia la puerta y sale hasta el camino. El incidente pasa en un segundo. El rebullicio de afuera indica <reg>a</reg> las señoras que <name type="name">San Roque</name> ha llegado. </p>
+		<p>—Vámonos, <name type="person">Regina</name>—le dice la hermana afanada y confusa—Vámonos. Pasemos adelante para que no nos demoremos. </p>
+		<p>—¡No, no, solas no!—exclama la cuitada cerrando los ojos, toda extremecida. </p>
+
+		<pb n="64">
+		<p>—Nos coge la noche, si nos metemos en la procesión. </p>
+		<p>—¡No le hace! Esperemos que llegue la gente <reg>a</reg> la puerta, y nos pegamos del <hi rend="cursiva">Dotorcito</hi>. </p>
+		<p>—¿Tiene miedo, <name type="person">Regina</name>? </p>
+		<p>—Mucho, pero no es de <hi rend="cursiva">El Rayo</hi>. (Un gemido se escapa de su pecho).</p> 
+		<p>—No llore, niña: desprecie <reg>a</reg> ese arrastrado.  </p> 
+		<p>—Sí, <name type="person">Laura</name>. </p> 
+		<p>—Una negra infeliz se deshonraría casándose con ese.... Estímese, <name type="person">Regina</name>, en lo que vale, aunque se le parta el corazón.  </p> 
+		<p>—Sí, <name type="person">Laura</name>.  </p> 
+		<p>Llamaron <reg>a</reg> los niños. En medio de ellos, ceñidas una <reg>a</reg> otra, cual si se amparasen mutuamente, llegaron <reg>a</reg> la cancilla.  </p> 
+		<p>—Devolvámonos, <name type="person">Laura</name>—exclamó la joven, al verse en el camino—Devolvámonos ¡por Dios! que nos ven. ¡Nos están viendo!  </p> 
+		<p>—<name type="person">Regina</name> ¡por la Virgen! no se ponga así, que entonces si que es cierto que van <reg>a</reg> reparar. Nadie ha  </p> 
+		</div>
+      </body>
+  </text>
+</TEI>

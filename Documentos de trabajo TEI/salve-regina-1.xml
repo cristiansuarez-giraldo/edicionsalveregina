@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salve Regina</title>
+                <author>Tomás Carrasquilla</author>
+            <respStmt>
+                <resp>Codificación y edición</resp>
+                <name>Luisa Montoya-Vélez</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Medellín</pubPlace>
+         <publisher>Imprenta Oficial</publisher>
+         <date when="1903">1903</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <pb n="5"> 
+         <p> Es en los Andes. El negro y atrevido contrafuerte, tajado en dos planos verticales,
+         parece un libro abierto. En ambas páginas escribió Naturaleza, con signos de líquenes y jeroglíficos de cardos, una sentencia misteriosa.
+         Cual si quisiese apuntarla en su sabiduría, puso allí por registro un torzal deslumbrante de plata y de armiño. Resplandece y se magnifica en su pureza;
+         asoma apretado y se encarruja; se afloja en seguida como una madeja; se desmelena por último, lacio y deshecho, para perderse en la espesura.
+         A medida que desciende por las negruras del basalto parece entristecerse.</p> 
+	<p> La Blanca llamaron <reg>a</reg> esta caída de agua, La Blanca, al arroyuelo que, engrosado por diversos manantiales, corre y ondea <reg>a</reg> lo largo de un reducido valle.</p> 
+	<p>Arullada por sus rumores, en un rincón ameno y declivado, medio escondida entre plataneras y graduales, ajena <reg>a</reg> las agitaciones del mundo, duerme, años hace, Santa María de la Blanca.</p> 
+	<p>Arropa sus vegas y laderas, sus pendientes y colinas el manto opulento de la feracidad ; costelan las vacadas sus apacibles praderías ; sus jardines, en perpetua florecencia, semejan mantones de Manila.
+    En aquel clima no se inflama el aire en el verano ni se congela en el invierno, como en los tiempos de Rioja y de Garcilaso; vive allí El Blando Céfiro, con la mayor frescura. Y tál, que la sangre circula con
+    ritmo de la salud, y los pulmones se ensanchan con ese oxígeno edénico. Colóranse como duraznos las mejillas de las chicas ; las cejas y los cabellos parecen <reg>a</reg> toda hora como ungidos con brillantina ; los ojos, 
+    rasgados y profundos, se abren al sol de la juventud, cual si quisieran beberse el infinito. ¡Pobres ojos!</p>
+	<p>Los más bellos, los más soñadores y misteriosos eran los de <name type="person">Regina</name>.</p> 
+    <p>Pardos, cuando la sorpresa la obligaba <reg>a</reg> divulgarlos en sus espléndida realidad, parecían negros, normalmente, bajo la proyección pudibunda de esas pestañas largas y combadas. Hablaban tales cosas
+     esos ojos, que en cuanto algún mozo se percibía de ello, corríanle por las vértebras fríos y calores. Bajos ante los extraños, alzábalos <reg>a</reg> solas siempre que pudiera contemplar el cielo y los horizontes de su pueblo, único mundo que conocía.</p> 
+	<p>Una mañana radiante de verano, con esa actitud del que mira <reg>a</reg> lo lejos, admiraba desde los corredores de su casa el salto de La Blaca. Jamás la había visto tan hermosa: le parecía en tal momento más argentina é inmaculada. No se saciaba de mirarla, y,
+    <reg>a</reg> medida que la contemplaba, sus ojos iban como recitando un poema de melancolía y de humildad. La cascada era su vicio, y, por lo mismo que le inspiraba ideas tristes y extrañas, no se enmendaba. Siempre había de mirarla todas las mañanas, y, cuando 
+    la niebla la velaba, <name type="person">Regina</name> sentía nostalgia de blancura y de belleza. A veces rezaba contemplándola, y se le figuraba que eran sus preces más fervientes ante esta obra de la Naturaleza que en la misma iglesia, en medio de las solemnidades del culto. Como alguna 
+    vez le llevara al Cura este horrible pecado de idolatría, rióselo él de todo corazón y la autorizó para que lo cometiese cuando y como quisiera. Pues, qué ¿no publicaba esa maravilla la grandeza del Creador? ¡Vetdad! Como ella era tan tonta, no había pensado en 
+    eso, y <name type="person">Regina</name>  con tal permiso y enseñanza, rezó y rezó viendo La Blanca, como ante la imagen de un santo predilecto. Jamás reveló el caso, por no parecer fantástica ó algo así.</p> 
+	<p>No rezaba, sin embargo, ante la cascada en la mañana aquella : cavilaba muy hondo. A su modo, y no por vez primera, ciertamente, iba estableciendo un paralelo entre el chorro y el alma de su novio. 
+Se parecían mucho : el alma de su Marcial-bien lo sabía ella, que lo amaba desde niño-era en otro tiempo tan limpia y tan hermosa como esas aguas despeñadas ; luégo, al contacto de la tierra, una y otras habíanse enturbiado ¡Qué tristeza! Y así como ella, por un capricho 
+enexplicable, prefería para el baño las linfas impuras de La Blanca <reg>a</reg> los varios cristalinos arroyuelos del pueblo, así su corazón, obcecado por un amor irresistible, débale preferencia al sér vil, maculado por la culpa, sobre dos hombres dignos cabales, 
+de ejemplar conducta, que la amaban <reg>a</reg> cual más y la solicitaban por esposa.  
+¡Ay! ¡Qué horrible era la vida! Y ella.... ¡Cuán mala y depravada! Porque lejos de desprenderse del menguado, que sólo desprecio merecía, sentíase más y más atraída y avasallada. ¡Qué vileza! Y cuán tristemente se llevaba ella por delante el precepto de santa obediencia. 
+Bien explícito había sido Sr. Cura <reg>a</reg> este respecto : que siguiese los consejos y amonestaciones de sus padres. ¡Sus padres!....
+Harto sabía ella cuánto detestaban <reg>a</reg> Marcial. ¡Pobrecito!</p>
+	<p>De las maldades de su amado, aunque nunca quiso saberlas <reg>a</reg> ciencia cierta y concretarlas de una manera determinada, yá no podía quedarle la menor duda. Si al principio no daba asenso <reg>a</reg> las insinuaciones de su madre ni <reg>a</reg> las reticencias 
+    harto elocuentes de alguna amiga oficiosa, yá la verdad, la horrible verdad se le imponía, avcerba é insistente, como un dolor que no admitía alivio. Hasta las inocentes la sabían.</p>
+	<p>La triste Regina se dio <reg>a</reg> recomponer aquí, por la centésima vez, una escena de algunos mese antes, cuyo recuerdo la acosaba, más vivo y más violento mientras más pretendía desecharlo. ¡Qué instante aquel, el más amargo de su vida!</p>
+	<p>Era sábado, día de asueto y consagrado por ella al ornato de la iglesia. Se hallaba en la huerta de su casa cortando flores que iba recogiendo en una cesta. Detrás de los arbustos florecidos y de los rosales multicolores, extendíase, como la línea divisoria del platanar, 
+    una hilera entrelazada de guayabos, naranjos y duraznos. Bandada maleantes de toches y azulejos, abonados <reg>a</reg> los frutales, picaban aquí y allá entre hipidos y algarabías, mientras los chicos de la casa, con otros de la calle, armados de cerbatanas, asechaban, cañón en boca, 
+    <reg>a</reg> los pícaros merodeadores. Dos de los Nemrodes, farigados acaso de la faena, conversaban tras los rosales, sin pensar que <name type="person">Regina</name> les oía. Hablaban del colegio y de algún condiscípulo non sancto.</p>  
+	<p>A ese pobre-decía uno de los interlocutores-lo acabó de matar la compañía con Amito. Amito era en el colegio el maestro de todas las maldades. Se salió porque lo iban <reg>a</reg> expulsar ; pero quedaron muchos Amitos aprendidos.</p>
+	<p>-¡ Ese vagamundo ! repuso el otro. Yá ves lo que está haciendo en la finca.</p> 
+	<p>Amito no era otro que <name type="person">Marcial Rodríguez</name>, el novio adorado. ¡ Qué angustía ! Iba <reg>a</reg> saber por la boca de un niño quién sabe qué horrible revelación.</p> 
+	<p>-¡ Lorenzo ! Lorencito-gritó <name type="person">Regina</name> con su voz de plata, más timbrada aún por la emoción.</p>
+	<p>-¿Qué es, señora?-contestaron de adentro.</p>
+	<p>-Vénga, vénga en un momento!</p>
+	<p>Apenas asomó el chico por entre los rosales, agregó ella:</p> 
+	<p>-Vea : súbase al ciprés y cójame unos ramos de Bellísima.</p>
+	<p>Habían plantado la galana trepadora al pie del árbol funerario, y ella, como la alegre careta de sociedad que encubre los dolores íntimos de un alma, envolvía en crespas guirnaldas de follaje, en profusión de flores purpurinas, en la gentileza de sus tallos retorcidos y 
+    tembladores, <reg>a</reg> ese fantasm verdinegro de los cementerios.</p> 
+	<p>Así atajó la joven aquel peso que se le venía encima. Con su carga de flores en el regazo, en la beldad gloriosa, ¡oh engañosas apariencias! el genio dispensador de las venturas.</p>
+	<p>¡Conque el maestro de todas las maldades! ¡Ah! Si todas las espinas del rosal se le hubieran hincado en el corazón, no lo tuviera tan herido y lacerado. ¿Y qué sería lo que estaba haciendo en la finca, en esa Remanga tan escondida y silenciosa? Una curiosidad insana la escocía. 
+    Pero nó: ella no debía saber de ningún modo lo que Marcial hiciera ó dehiciera en el retiro de la hacienda, ni en parte alguna. Por sobre esta curiosidad loca, por sobre esa perversión de sus sentimientos, estaban la limpieza y el perfume de sus alma. Bien comprendía ella, 
+    en su ignorancia de la vida, que el sólo conocimiento de esas faltas le enfermaería el espíritu, como al cuerpo las fétidas emanaciones de una charca.</p> 
+	<p>Sumergida en tan negros pensamientos, hallábase instantes después en la iglesia. Por más hábil y artista que sus compañeras, le correspondía de hecho el arreglo y la disposición de flores ; y más de un copo de rosas ó de azucenas, al ser colocado en los jarrones, recibió ese 
+    sábado memorable el riego de sus lágrimas.</p>
+	<p>Terminada la faena, quedóse sola en el silencio augusto ele aguella iglesia virginal que convidaba á la oración. Necesitaba implorar el auxilio de María. En la más excelsa de sus advocaciones, La Concepción Inmaculada, venerábanla en la iglesia, como patrona del lugar. Ante la 
+    imagen fundadora, ante esa imagen de todos tan querida, vinculada al vecindario entero, vista siempre por el vidrio de la fe, había sentido <name type="person">Regina</name>, desde niña, inspiraciones de virtud y anhelos de pureza. ¿Quién si no Ella podía valerla ahora en su quebranto? Apenas sola, tiró 
+    de la cuerda arrollóse el velo del camarín, y la  quiteña escultura, nimbada de oro apareció en su escabel de plata, sobre el fondo de nubes y de azul.</p> 
+	<p>Postrada de hinojos, entre lágrimas y suspiros, con fórmulas truncas y jaculatorias improvisadas, pidió y pidió a su Virgen predilecta. Y, pues era el refugio de los pecadores, ecogiese bajo su manto al extraviado y se lo devolviese digno y merecedor de una mujer pura; ó de nó, 
+    que arrancase de un corazón, hasta entonces limpio, eso que iría <reg>a</reg> mancharlo irremisiblemente.</p>
+	<p>No importa que, con la raíz, se fuese hasta la vida, esta vida de aquí abajo, tan triste y miserable.</p>
+	<p>Al llegar <reg>a</reg> casa, sintió la joven una tristeza dulce y saludable que le infundía valor y serenidad.</p>
+	<p>Por la noche había salve; que pocos sábados dejaba de honrar <reg>a</reg> la patrona el Padre Salamanca. <name type="person">Regina</name>, acompañada de Laura y de sus otros hermanos pequeños, entró á la iglesia al principiar la ceremonia. Marcial estaba junto <reg>a</reg> la puerta del perdón. 
+    ¿No era esto indicio claro, palmario de que la Virgen principaba? Arrodillóse, poseída de un fervor extraño, que nunca había sentido.</p>
+	<p>Aquel coro, aquel armónium risibles desde luego, ante el arte divino de Palestrina, iban siendo para la joven lugareña melodías de una Italia celestial. ¿ Qué le decían ? ¿Qué fórmula nueva de la vida le revelaban?</p> 
+	<p>Salve, Regina.</p>
+	<p>Mater misericordia.</p> 
+	<p>¿Por qué se estremecía de aquel modo? ¿Era alegría? ¿Era tristeza? Alegría, tristeza ó lo que fuese, eso era algo muy grande, muy poderoso que no venía de la tierra. ¿Por qué no había de ser María que hablaba <reg>a</reg> su alma? Le entendía, le entendía perfectamente. 
+    Sí: con la voz misma con que el pueblo de La Blanca la saludaba, le decía <reg>a</reg> </p>
+         </div>
+      </body>
+  </text>
+</TEI>

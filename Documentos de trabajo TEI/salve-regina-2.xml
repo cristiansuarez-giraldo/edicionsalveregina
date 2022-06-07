@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salve Regina</title>
+                <author>Tomás Carrasquilla</author>
+            <respStmt>
+                <resp>Codificacion y edicion del texto</resp>
+                <name>Santiago Bustos Ayala</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace></pubPlace>
+         <publisher></publisher>
+         <date when="22"></date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <pb n="17">
+         <p>"<reg>á<reg> ella <reg>á<reg> la pobre Regina" : "Espéra en mí ; ¡espéra!" <p>
+         <milestone unit="separation"/>
+         <p>"Una ola de enternecimiento subióle del corazón. Alzó á mirar la Virgen; y el escabel, y la corona, y los condeleros, y las luces irradiaron deslumbrantes, al través de sus lágrimas cual si fueran la confirmación gloriosa de lo que <reg>sentía<reg> en tal momento.<p>
+         <p>- ¿Porque llorás, <name type="person">Regineta<name>-le dice recio al hermanito menor, que estaba arrodilaldo junto a ella-¡Decime!
+         -¡Chito! No se habla en la <name type="place">iglesia</name>-
+         ¡Yo <reg>sé<reg>!-repone el chimuelo. a media voz-Es por amito. <reg>Mirálo<reg> <reg>allá<reg> abajo. Ta parao junto con Franciquí. T'est'atisbando hace ratísimo.
+          -Cállese, Jorgito, y rece.<p>
+          <p>El rosario y las letanías fueron para ella un instante no más de arrobamiento y de dulzuras. Creyó, como todos, que la función iría á terminarse ; mas, contra la costumbre, viose aparecer en el púlpito la facha procerosa del Padre.
+          <pb n="18">
+           <p>Salamanca, en actitud extraña y expectante<p>
+          <p>Era <reg>cardíaco<reg>, y en aquel momento lo <reg>poseía<reg> un arrechucho negro y pesimista. El, que <reg>podía<reg> hacerse <reg>oír<reg> entre el fragor de un combate, <reg>principi´<reg>con voz apenas perceptible. <reg>Había<reg> callado mucho, mucho tiempo pot no escandalizar <reg>á<reg> sus feligreses; pero <reg>yá<reg> su silencio era delito (aquí cesó el embargo de la voz y principió á tronar). <name type="country"> Santa María de la Blanca</name> era la nueva <name type="country">Babilonia</name> ; el valle, otro <name type="country">Pentápolis</name>. Esa comarca, consagrada <reg>á<reg> la Virgen sin mancilla; ese valle donde Ella derramaba <reg>á<reg> manos llenas todas las bendiciones, era ahora teatro nefando de los <reg>crímenes<reg> <reg>más<reg> abominables. El castigo de Dios <reg>vendría<reg> y ... ¡ay de los culpables! 
+          <milestone unit="XX"/>
+          <P> <reg>Jamás<reg> se <reg>había<reg> <reg>oído<reg> en el pueblo tan espantosa <reg>acusación<reg>. <name type="person">Regina</name> <reg>quedó<reg> como aplanada. ¡ <reg>Qué<reg> momento aquel ! De recordarlo solamente <reg>sentía<reg> <reg>frío<reg> en el <reg>corazón<reg>.     
+        <pb n="19">
+        <p>De todo esto <reg>hacía<reg> ocho mese <reg>más<reg> <reg>ó<reg> menos, y en <reg>tánto<reg> tiempo <reg>había<reg> cumplido la consigna que <reg>á<reg> <reg>sí<reg> misma se impuso desde aquella noche: no mirar á <name type="role">Marcial</name> ni al soslayo, y huirle de todos modos. El novio, por su parte, <reg>reclamó<reg> por cuantos medios estuvieron <reg>á<reg> su alcance; pero en vano. Las razones y querellas, por conducto de amigas <reg>ó<reg> de criadas, fueron <reg>desoídas<reg> ; dos cartas fueron devueltas sin abrir ; una tercera, echada por la ventana y recogida por <name type="person">Regina</name> misma, fue al <reg>fogón<reg>, por mandato de la madre.<p> 
+        <p>La joven que nunca había sido andariega, ni ventanera, según la usanza de las poblaciones pequeñas, yenfo <reg>sólo<reg> <reg>á<reg> la iglesia, al colegio en las horas de clade, y <reg>tál<reg> <reg>cuál<reg> caminata <reg>ó<reg> baño, en <reg>compañía<reg> de su hemana <reg>ó<reg> de su madre.<p>
+        <p>Parte de estos sucesos, con los mil perfiles y retoques del recuerdo, le <reg>sugerían<reg> <reg>á<reg> <name type="person">Regina</name>, la mañana en referencia, pensamienros dolorosos <reg>é<reg> intensos.<p> 
+        <pb n="20"> 
+        <p>¡ <reg>Qué<reg> vida <reg>más<reg> triste y <reg>más<reg> extrañala suya ! La <name type="role">Virgen</name> no <reg>quería<reg> <reg>oírla<reg> ; <name type="role">Marcial</name> <reg>seguía<reg> lo mismo, si no peor. Palabras sueltas, ya de su madre, ya del señor <name type="role">cura</name> ; ademanes sorprendidos en unos y otros; la insistencia misma de Marcial de no vivir en el pueblo ; todo, bien claro lo decían. Y en cuanto <reg>á<reg> ella ... ¡ay ! si antes lo <reg>quería<reg>, ahora lo adoraba.<p>
+        <lb/><p>Como sintiese los ojos inundados, <reg>corrió<reg> <reg>á<reg> la mesa de baño y anduvo en el cuarto como si aún no hubiese terminado el aseo y arreglo de su persona.<p> 
+        <p><name type="role">Doña</name> <name type "person">Antonia</name> trasegaba en las vueltas matinales de la casa ; <name type "person">Laura</name>, pensando acaso en el marido ausente, pespuntaba la pechera de una camisa, sentada en un <reg>ángulo del corredor ; sus dos chicos, montados en palos, les abrían la carrera del patio á la redonda ; Gabaceto, en el lugar más soleado, indiferente á la corrida, lustrava a su piel nevada, con la voluptuosidad de<p>
+        <pb n="21">
+        <lb/><p> un Petronio ; <hi rend="cursiva">Sapito</hi>, tirada en el suelo, con la camisa anudada <reg>á<reg> la espalda y al grito seguido de ¡Tata! Tata! <reg>pretendía<reg>, <reg>á<reg> fuerza de babas y de moquilla, meterle el diente <reg>á<reg> una toronja, tan grande y tan pelada como su cabeza.<lb/><p>
+        <lb/><p>Era un <reg>caserón<reg> de pueblo, de buen servicio y mejores comodidades. Se notaba en todo extemada limpieza, mucho orden, <reg>muchísima<reg> abundancia, y esa amplitud, esa facilidad de los hagares sencillos, donde no hay aparatos que estorben, ni lujos que empalaguen.<p><lb/>
+        <p><name type="role">Doña</name><name type="person">Antonia</name>, terminadas sus andanzas, <reg>tomó<reg> costuras y vino <reg>á<reg> sentarse junto a <hi rend="cursiva">Sapito</hi>, <reg>haciéndole<reg> muchas fiestas por los hociqueos y las pretensiones.<p>
+        <lb/><p>-<reg>Yá<reg> se fue <name type="person">Regina</name>?-le pregunta <reg>á<reg> <name type="person">Laura</name> no bien hubo enhebrado la aguja.<p>
+        <lb/><p>-No ha salido <reg>todavía<reg>-contesta la <name type"role">hija</name> mayor, suspendiendo el pespunte-Está en el cuarto. Hoy como que ha amanecido con la tristeza enconada.<p>
+        <pb n="22">
+        <lb/><p>-Pobre mija!-exclama la madre, llamando en seguida: <name type="person">Regina</name>!<lb/><p>
+        <lb/><p>-<name type="role">Señora</name>!-contestan de adentro.<lb/><p>
+        <lb/><p>-No piensa ir hoy <reg>á<reg> la clase? Van <reg>á<reg> dar las ocho y <reg>yá<reg> pasó el señor <name type"role">cura</name>. <p><lb/>
+        <p>-Voy en el momento, <name type="role">señora</name> : me estoy acabando de vestir.<p> 
+        <p>A poco <reg>salía<reg> la joven con sus libros y cuadernos. <reg>Examinóla<reg> <name type="role">Doña</name> <name type="person">Antonia</name> con el disimulo de las madres. La encontraba <reg>pálida<reg> y ojerosa.<p>
+        <p><reg>Parecía<reg> <reg>más<reg> bella y femenina en su misma sencillez: el peinado <reg>á<reg> lo Margarita, traje de percal blanco con lunares negros, un <reg>pañolón<reg> obscuro de abrigo y botas primorosas de <reg>satín<reg>. Ni aun para las grandes ocasiones y solemnidades se <reg>preocupó<reg> de telas, modas ni prendidos. Como no se tratara del calzado, todo estaba bien, desde que fuera pulcro y de limpieza intachable.<p> 
+        <p>-<reg>Está<reg> verde y consumida-<reg>murmuró<reg> la madre no bien <name type="person">Regina</name> hubo salido. -Parece una asombrada. Ni come, ni duerme : no tiene más 
+        <pb n="23">
+        <lb/><p>vida que estudiar y vivir en la <name type="place">iglesia</name>, como si fuera una vieja. Le aseguro que el perdido <reg>aquél<reg> me la tiene enyerbada ! Bien dicen que no hay <reg>pícaro<reg> sin fortuna.<p>
+        <p>-<name type="role">Mamá</name>-dice <name type="person">Laura</name> en tono sumiso de <reg>insinuación<reg> -<reg>qué<reg> le parece que usted y mi <reg>papá<reg> tienen <reg>qué<reg> ceder tarde <reg>ó<reg> temprano : <name type="person">Regina</name> no puede querer sino <reg>á<reg> <name type="person">Marcial</name>.<p>
+        <p>-¡<reg>Qué<reg> me lo tienes que decir!-replica <name type="role">Doña</name> <name type="person">Antonia</name>, <reg>asegurándose<reg> los anteojos-Las mujeres somos fatales cuando se nos mete un <reg>caimán<reg> en el <reg>corazón<reg>. <reg>Yá<reg> ves: al <reg>tánto<reg> <reg>habrá<reg> criatura <reg>más<reg> obediente, <reg>más<reg> sumisa y <reg>más<reg> buena que esta niña ¡porque es un <reg>ángel<reg>! como dice el señor <name type="role">cura</name>; <reg>yá<reg> ves <reg>qué<reg> laya de novios le han salido .... y <reg>mirála<reg> perdida por ese estragado, tan feo y tan <reg>antipático<reg>.<p>
+        <p>-Por eso <reg>decía<reg>.... -mumura <name type="person">Laura</name>.
+        <p>-Pero, niña, por Dios!-ataja la madre-¿cómo vamos á ce ler? ¡De pecado mortal no rebajaría! Pobre mi palomita en garras de ese gavilán! ¡ Yo no sé qué hagamos ! Me
+        <pb n="24">
+        <p> mantiene este enredo tan ofuscada y tan triste.... <reg>Así<reg> se lo <reg>escribí<reg> <reg>á<reg> <name type="person">Guillermo</name>: Si no viene pronto y se la lleva <reg>á<reg> <name type="city">Medellín</name>, <reg>á<reg> un colegio, voy <reg>á<reg> coger el monte.
+        <lb/><p>-Ella me <reg>leyó<reg> la última carta que le escribió <reg>á<reg> mi <name type="role">papá</name>: le dice que se va muy contenta <reg>á<reg> estudiar, que <reg>hará<reg> todo lo que ustedes quieran.<p>
+        <lb/><p>-Ella <reg>sí<reg>, la pobre. No digo yo <reg>á<reg> <name type="city">Medellín</name>, <reg>á<reg> un destierro se <reg>iría<reg>, por complacernos. Si en ella estuviera, <reg>yá<reg> <reg>habría<reg> olvidado al tal <name type="person">Marcial</name>. ¡Pero imposible! Es un amor que le puede: desde niña lo ha querido, y toda su vida ha sido <reg>él<reg> perverso y de mala ley.<p> 
+        <lb/><p>-Tal vez no será tánto, mamá. Es que Ud. le tiene mucha prevención. Qué sabemos ¿porqué no ha de componerse? Muchos han sido malos y han acabado en santos.
+        <lb/><p>-¡<reg>Válgame<reg> <name type="role">Dios</name>, niña!-exclama la madre, con asomos de impaciencia.-¡Parece que no supiera de la misa la media! Bien puede parar en santo el tal <hi rend="cursiva">Amito</hie>; pero, para<p> 
+        <pb n="25">
+        <p>lavar las que <reg>está<reg> haciendo y probar la enmienda ¿se figura usted que bastan quince <reg>días<reg> <reg>ó<reg> un mes?.
+        <lb/><p>Vea, <name type="person">Laura</name>: si ese hombre ha de probar, antes de casarse, que es decente y caballero, tiene que ir de <reg>bardón<reg> <reg>á<reg> la iglesia.<p>
+        <p>-Pero, entonces, ¿<reg>qué<reg> hacemos?<p>
+        <p>-<reg>Según<reg> usted, ceder: Es pilao !-repone la madre, con irónica serenidad-Llamamos al hombre y le rogamos que se lleve a la muchacha, porque me figuro que <reg>él<reg> no ha de tener cara de pedirla, <reg>después<reg> de las que ha hecho, y sabiendo que ella <reg>está<reg> furiosa. Por lo que es <name type="person">Regina</name>.... ¡ Piss !.... la casamos por la fuerza, porque ella, que se estima en algo, no lo <reg>hará<reg> nunca voluntariamente.<p>
+        <p>¡Vea que tan <reg>fácil<reg>! Usted que <reg>está<reg> tan interesada por el novio, puede encargarse del arreglo
+          -No se enoje, madrecita-dice <name type="person">Laura</name> muy confundida-He dicho una bobada muy grande. ¡ Es que no puedo conformarme con ver <reg>á<reg> <name type="person">Regina</name> <reg>así<reg>!.... ¡Si ella olvidara <reg>á<reg> ese hombre!.... 
+        <pb n="26">     
+          -¡No lo piense! Esto es enfermedad incurable, como el <reg>cáncer<reg> ... ¡Asi lo <reg>querrá<reg> <name type="role">Dios</name>! <reg>Yá<reg> ves <reg>cuánto<reg> hemos pedido por esta necesidad, y nada hemos conseguido. 
+        -¡ <name type="role">Mamá</name> ! -prorumpe <name type="person">Laura</name>, acometida de repentina inspiración -<hi rend="cursiva">El Dotorcito</hi> lo alcanza todo! 
+        -¡<reg>Valgamé<reg>!...... Desde que vino está en la cosa: todos los <reg>días<reg> pide en la misa la cura de <hi rend="cursiva">El Dolatro</hi>. Y si en siete meses nada ha alcanzado este santo ¿<reg>qué<reg> hemos de alcanzar nosotros? 
+        <p>Tengamos fe, <reg>mamá<reg>. Es imposible que, viviendo en la misma casa con ese santico, no consigamos nada. ¡ Y con todo lo que <reg>él<reg> quiere <reg>á<reg> <name type="person">Regina</name>!...... Yo <reg>sí<reg> creo que <hi rend="cursiva">El Dotorcito</hi> le quita eso. ¡ Hasta milagros, como los de cualquier santo, puede hacer <reg>él<reg>!
+        -Pues <reg>éste<reg> <reg>sí<reg> no le cuaja hasta ahora.
+        <p>Una catástrofe inesperada <reg>cortó<reg> la <reg>conversación<reg>: <hi rend="cursiva">Sapito</hi> derribada por los corceles.<p> 
+        <pb n="27">
+        <p>A las diez <reg>volvió<reg> <name type="person">Regina</name> del colegio, <reg>más<reg> animada y menos <reg>pálida<reg>.
+        <p><reg>Sólo<reg> <reg>á<reg> clases <reg>asistía<reg>, pues al padre Salamanca, inspector nato del <name type="place">colegio</name>, <reg>habíala<reg> eximido de las <reg>demás<reg> obligaciones reglamentarias, al ver <reg>cuánto<reg> la mareaban el mariposeo y la <reg>chillería<reg> de <reg>tánta<reg> loquilla. Regina honraba el privilegio estudiando en casa cuanto le era posible. Al imponerse ella misma la <reg>obligación<reg> de olvidar al hombre indigno, <reg>comprendió<reg>, por propia experiencia, que la ociosidad mental era su propio enemigo.<p> 
+        <p>De <reg>aquí<reg> el que prefiriese, entonces, los estudios y trabajos intelectuales <reg>á<reg> cualquiera otra <reg>ocupación<reg> mecánica, si bien es cierto que, las <reg>más<reg> de las veces, lejos de encadenar el pensamiento en las abstracciones del saber, se le escapaba en agitada fuga, tras el fantasma terrible de <name type="person">Marcial</name> <name type="person">Rodríguez</name>. 
+        <p>Y no eran estas fugas lo que más la amilanaba: era el sentir allá en el<p>
+        <pb n="28">
+         <lb><p>fondo de su <reg>sér<reg> que, mientras <reg>más<reg> <reg>temía<reg> y excecraba <reg>á<reg> ese hombre, <reg>más<reg> amor le inspiraba, cual si el fango y las maldades de <name type="person">Marcial</name> fuesen para su <reg>corazón<reg> sin mancha, <reg>fascinación<reg> irresistible de un poder misterioso. En sus horas de angustia y desaliento lloraba <reg>á<reg> escondidas; pero, alma batalladora que aspiraba al triunfo, <reg>volvía<reg> al estudio, aunque fuese como una <reg>autómata<reg>.<p>
+          <p>A bien que <reg>podía<reg> hacerlo materialmente: <reg>árbitro<reg> de sus acciones era en casa; no <reg>tenía<reg> fuera de ella, ni en el <name type="place">colegio</name> mismo, <reg>séquito<reg> <reg>ó<reg> <reg>compañía<reg> que se lo impidiese. Ni antes, ni menos entonces, era ella para muchos engranajes y conexiones con sus <reg>coterráneas<reg>. Delicada y exquisita por temperamento, no <reg>podía<reg> vibrar demasiado en aquel ambiente lugareño donde <reg>corrían<reg> siempre huracanes de chismes y de murmuraciones.
+          <p> Por su actitud correcta, por su misma indulgencia y natural <reg>distinción<reg>, y aun pot su belleza y <reg>simpatía<reg>, era fastidiosa <reg>á<reg> sus <reg>condiscípulas<reg> y conocidas: que nada irrita
+          <pb n="29">
+           tanto <reg>á<reg> los pequeños como la presencia inmediata de la superioridad.<p> 
+
+         </div>
+      </body>
+  </text>
+</TEI>
