@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salve Regina</title>
+                <author>Tomás Carrasquilla</author>
+            <respStmt>
+                <resp>Codificación y edición del texto</resp>
+                <name>Paula Galvis-Jaramillo y Salma Novoa</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Medellín</pubPlace>
+         <publisher>Imprenta Oficial de Medellín</publisher>
+         <date when="1903">1903</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <pb n="29"/>
+    <p>tanto <reg>a</reg> los pequeños como la presencia inmediata de la superioridad.</p> 
+	<p>Una cosa no le perdonaban <reg>a</reg> <name type="person">Regina</name> las ínclitas de <hi rendition="cursiva">La Blanca</hi>: el que tratase de igual modo <reg>a</reg> las <hi rendition="cursiva">doñas</hi> que <reg>a</reg> las <hi rendition="cursiva">ñaes</hi>, <reg>a</reg> los ricos que <reg>a</reg> los pobres. La joven, por su parte, jamás se le ocurrió pensar que ella y las gentes buenas de su pueblo estuvieran <reg>o</reg> <reg>no</reg> <reg>a</reg> un mismo nivel, ni que fuera superior <reg>o</reg> inferior <reg>a</reg> nadie. Su relativo aislamiento atribuíalo <reg>a</reg> la dirección de Doña <name type="person">Antonia</name>, poco amiga de intimar con nadie, y <reg>a</reg> los pesares de su alma que le impulsaban <reg>a</reg> la soledad. Nunca supo que tuviera malquerientes: era demasiado bondadosa, demasiado joven para que la envidia ajena la ilustrase.</p>
+	<p>Tan conocidas eran sus tendencias <reg>e</reg> inclinaciones que, <reg>a</reg> pesar de ser granada entre las granadas, jamás contaron con ella para paseos ni entretenimientos, ni aun para esos torneos indumentales de lujos <reg>a</reg> la moda, tan frecuentes en nuestros pueblos montañeses.
+         <pb n="30"/>
+    Habíalos en <hi rendition="cursiva">La Blanca</hi> <reg>a</reg> cada triquitraque, y <corr>tales</corr>, que <reg>a</reg> las señoras hembras se les iba la cabeza y se les envenenaba el corazón.</p>
+	<p>Sus gustos y distracciones eran para sus condiscípulos alardes de excentricidad <reg>o</reg> puerilidades de un bobo muy subido. Si les cabía que le disgustasen los regocijos estruendosos, no concebían <corr>como</corr> una colegiala, harta de estudios, se anduviese por ahí, libro en mano, orillas de la quebrada <reg>o</reg> en el monte mismo, sin más compañía y aliciente que sus hermanos pequeños. Tampoco concebían que una joven tan pretendida pasase el domingo en la iglesia enseñando la doctrina <reg>a</reg> los niños del campo, sin pensar siquiera en los devaneos del mercado ni en el delicioso apunte de la cantarilla. Mucho menos podía entrarles el que se fuera tardes enteras <reg>a</reg> las chozas de los mendigos y que entrase con ellos en largas pláticas y parlamentos.</p>
+	<p>Con tal carácter, y siendo ella de lo mejor en familia y en riqueza, y la beldad indiscutible de <hi rendition="cursiva">La Blanca</hi>, 
+         <pb n="31">
+    claro está que la tenían generalmente por muy remilgada, orgullosa y desvanecida.</p> 
+	<p>Cuánto se hubieran reído y maravillado de las interioridades de este <corr>ser</corr> tan extraño <reg>a</reg> su medio.</p>
+	<p>Apenas fue mujercita principiaron las batallas. Mal podía avenirse su criterio de conciencia, recto y ajustado, con su imaginación calenturienta, exaltaba por lecturas de la Historia bíblica y de las vidas de los santos. No armonizaban, tampoco, su malicia en la especulación y su inocencia en la práctica. Su inteligencia precoz y atrevida, tanto más volandera cuanto no la contenía lastre alguno de conocimientos serios, iba adquiriendo en el retiro de sus soledades una intensidad profunda y enfermiza. Su amor contrariado y oprimido y los conflictos que le ocasionaban, eran, desde luego, la base capital de las infantiles filosofías. La pobre criatura hacíase <reg>a</reg> sí misma la exégesis de la vida.</p>
+	<p>Era el eterno caso de los infusorios de Bartrina: deducía el universo
+    <pb n="32">
+    moral por una gota, la gota amarga de su vida. Mas, como quiera que esta gota fuese de lágrimas el lente por excelencia, <name type="person">Regina</name> no andaba muy despistada que se diga.</p>
+    <p>Enredada en una maraña de contradicciones y de "malos pensamientos" —que decía ella— pasaba horas y horas, para venir <reg>a</reg> sacar, al fin y al cabo, las mismas pecaminosas conclusiones, que <corr>luego</corr> no podía formular en el confesionario. Es <reg>a</reg> saber: La vida <reg>solo</reg> era posible en la niñez, que era como un llano barrido y sombreado. De allí adelante se volvía un despeñadero de fango, fétido y negro. Asomaban por ahí puntas de piedra pequeñas y apretadas. Los buenos se sostenían en las piedras, los malos se caían; pero, con el lodo que levantaban, de <corr>tanto</corr> caer y chapuzar, los buenos también se iban poniendo sucios y repugnantes. Lo decía por ella, <reg>a</reg> quien salpicaba <name type="person">Marcial</name>; por su familia, <reg>a</reg> quien salpicaba ella; y por <reg>este</reg> y por aquél.</p> 
+	     <pb n="33">
+    <p>La vida, en fin, era un camino obscuro que la aterraba.</p> 
+    <milestone unit="separation"/>
+	<p>Por atender <reg>a</reg> los ruegos de Doña <name type="person">Antonia</name>, pudo tomar alguna cosa <reg>a</reg> la hora del almuerzo. Rogóle, asimismo, la señora, descansase de los estudios siquiera el resto de ese día. ¡Cómo no! Sacó, entonces, la obra de manos que trabajaba de tiempo atrás, en sus momentos de ocio, y que había abandonado últimamente. Era una bufanda de lana (moda muy rigor en esos tiempos), con que pensaba obsequiar <reg>a</reg> Don <name type="person">Guillermo</name>, en la próxima venida.</p> 
+	<p>Sentada en un ángulo del corredor, frente <reg>a</reg> <name type="person">Laura</name>, que cosía en el opuesto, <corr>entregose</corr> al tejer acompasado de los dos agujones de madera, y al ir y venir de ella <reg>a</reg> <name type="person">Marcial</name> y de <name type="person">Marcial</name> <reg>a</reg> ella. ¡Qué labor más silenciosa en su misma rapidez!.... ¡Con qué tristeza tan significativa se matizaban lo blanco y lo negro! ¡Ah! las dos almas tan 
+         <pb n="34">
+    opuestas y <reg>a</reg> la vez tan inseparables. ¡Siempre esas dos almas!</p> 
+	<p><hi rendition="cursiva"<name type="animal">Gabaceto</name></hi> corrió <reg>a</reg> su lado, y, jugando con los ovillos del tejido, que tan pronto cogía como largaba con las manoplas de algodón, pudo distraerla un instante de la interior faena, no tanto por admirarle la gentileza del retozo, cuanto por buscarle el simbolismo del caso. ¡Ah! ¡Si el destino fuera tan amable como <hi rendition="cursiva"<name type="animal">Gabaceto</name>!</hi></p>
+	<p>Tras el gato, fuéronse <reg>a</reg> ella los dos chiquillos de <name type="person">Laura</name>. Perdiéronle cuantos <reg>a</reg> esta tía joven y hermosa, que <corr>tantos</corr> y tan divertidos les narraba; pero ella no quiso complacerlos esta vez y los mandó <reg>a</reg> <hi rendition="cursiva">Mamá Toña</hi>, para que le enviase un poquito de <hi rendition="cursiva">teneteallá</hi>.</p>
+	<p>Sin los bulliciosos importunos <corr>hundiose</corr> de nuevo en el golfo negro de sus meditaciones. <name type="person">Laura</name> la miraba de reojo, comprendiéndole la procesión que por dentro le andaba.</p>
+	<p>Trató de halagarla encareciéndole el primor y adelanto de la 
+         <pb n="35">
+    bufanda y el gusto que habría de tener papá, al recibir  y usar esa prenda trabajada con <corr>tanto</corr> cariño y arte tan supremo. <corr>Hablole</corr>, <corr>luego</corr>, del viaje <reg>a</reg> <name type="city">Medellín</name>; del colegio de las Quijanos; de lo mucho que iría <reg>a</reg> adelantar; de las amigas tan simpáticas que desde luego encontraría. <corr>Moviole</corr>, en fin, todos los resortes.... y en vano: <name type="person">Regina</name> <reg>solo</reg> asentía con monosílabos y con esa sonrisa suya tan dulces y melancólica; esa sonrisa que dejaba entrever unos dientes azulados, <reg>a</reg> fuerza de blancura.</p>
+	<p>Desde la reja del comedor, donde <reg>a</reg> la sazón trasteaba, examinábala Doña <name type="person">Antonia</name>. Nada tranquilizadora que le parecía esa cara. "¡Pobre mi hija —se dijo la señora— no puede, por más que brega! ¡Se la come el gusano!" Volvió <reg>a</reg> las hijas y <reg>a</reg> la costura y entonaron las tres el concertante del silencio: <name type="person">Marcial</name> esto, <name type="person">Marcial</name> aquello, <name type="person">Marcial</name> lo otro.</p>
+	<p>Y parecía aquella casa el remanso de los espíritus y el cielo sin nubes de los corazones. ¡Así son las 
+         <pb n="36">
+    cosas! En aquel patio, florido y cultivado, tan limpio y tan extenso, de paredes tan blancas y acicaladas, sentíase <reg>a</reg> tales horas un reposo conventual digno de un Bruno. Un vientecillo cariñoso, con alas de colibrí, traía desde las próximas laderas átomos de salvia y de tomillo. Por el corredor soleado colgaba un jazmín su cortinaje obscuro, bordado de luceros. Una muchedumbre de pensamientos, con caritas expresivas <reg>e</reg> irónicas, vueltas <reg>a</reg> un mismo lado, presenciaban, abajo, el espectáculo de las <reg>eras</reg>. ¡Qué mundo! ¡Cómo extiende la reseda sus blancos edredones, para que se demayen los claveles y se mueran de amor las <hi rendition="cursiva">albarinas</hi>! Cuál le cuesta al ababol erguir esa cabeza coronada de sueños, para que, una vez alta, la piquen bichos babosos y la deshoje un soplo. Déjalos, ababol: el opio que tú encierras no te lo quitarán.</p>
+	<p>Oíanse adentro los desórdenes de <name type="person">Céfiro</name> entre los platanares; el método del chorro entre la alberca; alegre comadreo de gallinas y la 
+         <pb n="37">
+    epopeya de la piedra al triturar el grano. ¡Salve, oh molienda!</p>
+	<p>A todas estas, continuaba el concertante. <corr>Tanta</corr> música no podía ser durable. Llegó <name type="person">Jorge</name> de la calle, con su cara requemada, sus ojones de abencerraje y con su diablo adentro, más avispado que de ordinario.</p>
+	<p>—"¡Hole, <name type="person">Regineta</name>! —chilló el troglodita, en cuanto la vio tejiendo— hoy sí me prestás los chuzos, ¿no es cierto? ¡No te los daño!"</p>
+	<p>—¿Para qué?</p>
+	<p>—¡Eh! ¡Pues pa bueno!... Prestámelos un momentico, que allí en la gatera está el sapo muy toriao.</p>
+    <p>(Sofión de Doña <name type="person">Antonia</name>: ¡No le faltaba más al mataperros!) </p>
+	<p>¡Bueno, pues! Antós me tenés que encomenzar mañana mi gufanda: Yo la quiero colorada y con pelotas, como la di <hi rendition="cursiva">Amito</hi>. Me le ponés en las puntas di <reg>a</reg> tres gusanos bien grandotes. ¡<reg>Ya</reg> sabés!</p>
+	<p>¡Pedí por esa boca, grandísimo sinvergüenza! Buena estaba Doña <name type="person">Antonia</name> para bufandas <reg>a</reg> lo <hi rendition="cursiva">Amito</hi>.</p> 
+    <p>En estas y las otras, y la toma 
+         <pb n="38">
+    del chocolate, y no sé qué razones al padre <name type="person"> Salamanca</name>, se descuidó <name type="person">Regina</name>, tiró el diablo de la manta y.... <hi rendition="cursiva">Ahisós</hi>!</p> 
+	<p>¡Qué sapo, ni que nada! Al ver aquello que se desbarataba tan bonito, al coger esa hebra mágica que brotaba y brotaba y crecía en un momento y se volvía un enredo, sintió <name type="person">Jorge Duarte</name> el vértigo de la demolición. Si no es porque <name type="person">Laura</name> cae en la cuenta... ¡adiós bufanda de <name type="person">D. Guillermo</name>!</p>
+	<p>¡El malvado! ¡El horrible! Pero ¿por qué no lo mataba <name type="person">Regina</name> de una vez? Pero <name type="person">Regineta</name> no: ahí se quedó con su misma cara y su misma sonrisa. Mas no quedará inulta: ahí viene Doña <name type="person">Antonia</name> con el pellizco armado.</p> 
+	<p>Como la tregua en los estudios comprendía la noche, instáronle <reg>a</reg> <name type="person">Regina</name> para que se recogiese temprano y procurase dormir. Accedió <reg>a</reg> todo con su genial complacencia metiéndose en la cama, <reg>a</reg> eso de las ocho; pero, en cuanto <reg>a</reg> dormir.... no estaba en ella. Aparentó el sueño, eso sí, por dar gusto <reg>a</reg> madre y 
+         <pb n="39">
+    hermana, por hundirse mejor en la obsesión aquella.</p> 
+	<p>En altas horas, cuando en las alcobas se oían las respiraciones rítmicas del sueño, la joven imprecaba.</p> 
+	<p>"¡Quítame esto, Dios mío! ¡Yo quiero ser buena!" —pedía ella de rodillas en el lecho, echada hacia atrás, las manos cruzadas como una <name type="person">Magdalena</name>.</p>
+    <milestone unit="separation"/>
+	<p>¡Valiente cosa! Parecen locas aquellas compañas lanzadas <reg>a</reg> vuelo. El pueblo todo está en rebullicio. El trueno sordo de la tambora, el estridor de los platillos, los clarinetes, los cobres, la banda, la gente, el pueblo, todo.... toca y siente aquellas vueltas incomparables, irresistibles; aquellas vueltas que se bailan solas. Parece que el aire se estremece de alegría. Ese motivo, medio alegre, medio triste, monótono, sencillo, parece que expresara el sentimiento popular, el alma del montañés.</p>
+         <pb n="40">
+	<p> <hi rendition="cursiva">"¡Hole, gallinacito, vení vení"!</hi> ¡Si hasta la montaña misma lo canta y lo repite!</p> 
+	<p>Los cohetes, unos cohetes humosos, bobos, con nostalgia de obscuridad, estallan de seguido. La gente corre, pregunta, indaga. Que <reg>ya</reg> viene, que <reg>ya</reg> viene por la calle real.</p> 
+	<p><reg>Ya</reg> entra. <reg>Ya</reg> entra <rega>a</reg> <name type="city">Roma</name>  el César triunfador: <hi rendition="cursiva">El Dotorcito</hi>. Es el primero en el desfile: viene <reg>a</reg> pie, despeado, cojín-cojeando. No reza: el llanto se lo impide. Tras él, en sus andas, viene el Señor Caído: pequeñito, llagado, lastimoso. Bríllanle al sol las potencias y los ojos de esmalte. De la columna del pretorio cuelga como un trofeo la imagen de <name type="person">San José</name>. Frente <reg>a</reg> <name type="person">Jesús</name> van las ofrendas. En una gran mochila está la moneda de plata y la heráldica de todas las naciones. Las morrocotas y los condores ¡oh edad dichosa! procrean en una fojaína una multitud de chilines. Fulguran las joyas en una tazuela de la misma plata: las guacamayas amarillas, que aún no ha traducido</p>
+         </div>
+      </body>
+  </text>
+</TEI>
